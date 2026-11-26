@@ -1,0 +1,1801 @@
+date,category,region,sales_rep,units_sold,revenue,cogs,gross_profit,month,week
+2026-01-01,Laptops,Rift Valley,David,14,1294314,834878,459436,January,1
+2026-01-01,Laptops,Coast,Carol,11,685778,418588,267190,January,1
+2026-01-01,Phones,Rift Valley,Carol,14,576665,293887,282778,January,1
+2026-01-01,Phones,Rift Valley,Alice,14,477012,296528,180484,January,1
+2026-01-01,Phones,Coast,Alice,13,500194,316592,183602,January,1
+2026-01-01,Audio,Coast,Eve,6,54214,33696,20518,January,1
+2026-01-02,Phones,Nairobi,David,5,106281,67527,38754,January,1
+2026-01-02,Phones,Nairobi,Eve,1,36581,18017,18564,January,1
+2026-01-02,Accessories,Coast,Carol,13,33127,15705,17422,January,1
+2026-01-02,Phones,Coast,Carol,1,40448,22564,17884,January,1
+2026-01-02,Phones,Nairobi,Bob,9,273295,163782,109513,January,1
+2026-01-02,Accessories,Central,Carol,1,2644,1621,1023,January,1
+2026-01-02,Laptops,Nairobi,Eve,14,1016462,634109,382353,January,1
+2026-01-02,Laptops,Coast,Bob,14,1069606,567372,502234,January,1
+2026-01-02,Audio,Nairobi,Frank,4,36383,18658,17725,January,1
+2026-01-02,TVs,Nairobi,David,9,496970,275561,221409,January,1
+2026-01-03,Laptops,Rift Valley,David,13,1094439,638193,456246,January,1
+2026-01-03,Phones,Coast,Eve,10,351505,177704,173801,January,1
+2026-01-03,Phones,Western,David,5,148829,69901,78928,January,1
+2026-01-03,TVs,Rift Valley,Carol,11,611651,382407,229244,January,1
+2026-01-03,Laptops,Coast,Alice,5,404878,255958,148920,January,1
+2026-01-03,TVs,Coast,David,3,178868,102896,75972,January,1
+2026-01-03,Accessories,Central,Bob,14,32549,19357,13192,January,1
+2026-01-03,TVs,Nairobi,Carol,14,807894,477585,330309,January,1
+2026-01-03,Phones,Coast,Frank,3,120729,75625,45104,January,1
+2026-01-04,TVs,Central,David,1,48904,26215,22689,January,1
+2026-01-04,Phones,Rift Valley,Frank,3,107752,52921,54831,January,1
+2026-01-04,Audio,Nairobi,Bob,4,32997,19171,13826,January,1
+2026-01-04,TVs,Coast,Alice,12,554078,296037,258041,January,1
+2026-01-04,Audio,Western,Alice,7,61693,35300,26393,January,1
+2026-01-04,Accessories,Coast,Frank,10,22793,14695,8098,January,1
+2026-01-04,Accessories,Rift Valley,Frank,4,7970,4994,2976,January,1
+2026-01-04,Phones,Nairobi,Frank,11,446290,279228,167062,January,1
+2026-01-05,Laptops,Western,Eve,4,278947,152217,126730,January,2
+2026-01-05,Laptops,Western,Frank,5,400760,254418,146342,January,2
+2026-01-05,Phones,Coast,David,7,280601,172366,108235,January,2
+2026-01-05,TVs,Central,Frank,1,55043,28023,27020,January,2
+2026-01-05,Phones,Coast,Bob,2,74631,44754,29877,January,2
+2026-01-05,Laptops,Nairobi,Frank,5,374438,235237,139201,January,2
+2026-01-05,Phones,Nairobi,Frank,11,359337,227554,131783,January,2
+2026-01-05,Laptops,Rift Valley,Bob,3,214863,111074,103789,January,2
+2026-01-05,TVs,Nairobi,Alice,7,447082,257490,189592,January,2
+2026-01-05,TVs,Nairobi,Eve,4,231619,140981,90638,January,2
+2026-01-05,Audio,Western,David,14,95673,60578,35095,January,2
+2026-01-06,Audio,Rift Valley,Bob,14,113019,70243,42776,January,2
+2026-01-06,TVs,Nairobi,David,2,114149,57312,56837,January,2
+2026-01-06,TVs,Rift Valley,Carol,1,59447,29020,30427,January,2
+2026-01-06,Laptops,Rift Valley,Carol,2,142427,83000,59427,January,2
+2026-01-06,TVs,Coast,Alice,12,661484,319861,341623,January,2
+2026-01-06,Phones,Rift Valley,Frank,1,32610,20749,11861,January,2
+2026-01-06,Audio,Nairobi,David,8,73488,33163,40325,January,2
+2026-01-06,Audio,Nairobi,David,1,8578,4014,4564,January,2
+2026-01-06,Accessories,Nairobi,Frank,7,13153,6695,6458,January,2
+2026-01-06,TVs,Coast,Eve,3,180129,109188,70941,January,2
+2026-01-06,TVs,Nairobi,Eve,9,541666,265624,276042,January,2
+2026-01-06,Phones,Rift Valley,Bob,12,382529,199444,183085,January,2
+2026-01-07,Phones,Coast,David,4,165690,99405,66285,January,2
+2026-01-07,TVs,Western,David,4,170710,97637,73073,January,2
+2026-01-07,TVs,Coast,Eve,11,585873,303968,281905,January,2
+2026-01-07,Phones,Nairobi,Frank,6,181886,93014,88872,January,2
+2026-01-07,TVs,Western,Frank,2,109651,69092,40559,January,2
+2026-01-07,Phones,Nairobi,Eve,13,448710,279896,168814,January,2
+2026-01-07,Phones,Western,Carol,8,305190,169785,135405,January,2
+2026-01-07,TVs,Nairobi,Alice,2,114355,61738,52617,January,2
+2026-01-07,Phones,Western,Carol,6,193562,88308,105254,January,2
+2026-01-07,Phones,Rift Valley,Eve,5,209068,103775,105293,January,2
+2026-01-08,Audio,Nairobi,David,7,56272,36033,20239,January,2
+2026-01-08,Phones,Coast,Alice,4,147518,94352,53166,January,2
+2026-01-08,TVs,Nairobi,Eve,5,310794,167800,142994,January,2
+2026-01-08,Audio,Rift Valley,Eve,10,67923,35871,32052,January,2
+2026-01-08,Phones,Central,David,12,463273,221821,241452,January,2
+2026-01-08,Accessories,Western,David,11,25241,12862,12379,January,2
+2026-01-08,Audio,Western,Carol,9,77938,39244,38694,January,2
+2026-01-08,Audio,Western,Alice,12,97308,56689,40619,January,2
+2026-01-09,TVs,Rift Valley,Bob,5,253079,148751,104328,January,2
+2026-01-09,Phones,Rift Valley,Alice,1,29293,18435,10858,January,2
+2026-01-09,Phones,Western,Alice,9,323998,210001,113997,January,2
+2026-01-09,Phones,Nairobi,Carol,4,160977,76006,84971,January,2
+2026-01-10,TVs,Nairobi,David,13,697975,331205,366770,January,2
+2026-01-10,Laptops,Coast,Alice,3,213111,97444,115667,January,2
+2026-01-10,Phones,Nairobi,Frank,7,277411,132731,144680,January,2
+2026-01-10,Accessories,Coast,David,5,12432,5998,6434,January,2
+2026-01-10,Laptops,Rift Valley,Frank,4,328921,163050,165871,January,2
+2026-01-10,Laptops,Western,Alice,2,181293,100013,81280,January,2
+2026-01-10,Laptops,Coast,Bob,14,1061651,613742,447909,January,2
+2026-01-10,Audio,Nairobi,Frank,2,14184,8455,5729,January,2
+2026-01-10,Laptops,Coast,Eve,3,210516,120152,90364,January,2
+2026-01-10,Accessories,Nairobi,Bob,10,25366,12385,12981,January,2
+2026-01-11,Audio,Western,Bob,6,39753,25820,13933,January,2
+2026-01-11,Phones,Nairobi,Alice,11,397575,182906,214669,January,2
+2026-01-11,TVs,Central,Carol,2,96504,47837,48667,January,2
+2026-01-11,Phones,Coast,Bob,3,108455,51173,57282,January,2
+2026-01-11,Laptops,Nairobi,Alice,11,1068956,669180,399776,January,2
+2026-01-11,Laptops,Western,Frank,8,496062,293726,202336,January,2
+2026-01-11,Phones,Coast,Frank,14,545728,346700,199028,January,2
+2026-01-11,TVs,Nairobi,Carol,9,586154,271435,314719,January,2
+2026-01-11,TVs,Rift Valley,Frank,2,98166,52400,45766,January,2
+2026-01-11,Phones,Rift Valley,Carol,10,349516,169331,180185,January,2
+2026-01-12,Audio,Western,David,11,81438,45144,36294,January,3
+2026-01-12,Laptops,Western,Alice,9,538421,268817,269604,January,3
+2026-01-12,Phones,Rift Valley,Frank,10,348549,181126,167423,January,3
+2026-01-12,Phones,Rift Valley,Bob,4,177222,113419,63803,January,3
+2026-01-12,Phones,Western,Alice,7,247702,117360,130342,January,3
+2026-01-12,Laptops,Nairobi,Bob,1,60103,29206,30897,January,3
+2026-01-12,Phones,Central,Alice,4,171390,104057,67333,January,3
+2026-01-12,Phones,Nairobi,Alice,13,470731,272145,198586,January,3
+2026-01-12,TVs,Nairobi,Bob,10,632135,321873,310262,January,3
+2026-01-12,Laptops,Western,Alice,8,525629,238235,287394,January,3
+2026-01-12,Accessories,Western,Bob,2,4884,3002,1882,January,3
+2026-01-12,Laptops,Rift Valley,David,6,455525,295890,159635,January,3
+2026-01-12,Phones,Coast,Frank,1,27314,17590,9724,January,3
+2026-01-13,Accessories,Rift Valley,David,7,19494,11762,7732,January,3
+2026-01-13,Laptops,Coast,David,5,344851,186457,158394,January,3
+2026-01-13,Phones,Rift Valley,Carol,14,524777,324625,200152,January,3
+2026-01-13,TVs,Coast,David,2,99824,49520,50304,January,3
+2026-01-13,Laptops,Western,Frank,8,742742,360685,382057,January,3
+2026-01-14,TVs,Nairobi,Bob,13,788443,369765,418678,January,3
+2026-01-14,Phones,Rift Valley,Carol,4,119212,70621,48591,January,3
+2026-01-14,Phones,Coast,Frank,1,37090,23441,13649,January,3
+2026-01-14,Audio,Western,Eve,14,124843,57696,67147,January,3
+2026-01-14,Phones,Central,David,2,68605,31405,37200,January,3
+2026-01-14,TVs,Coast,Frank,9,432339,255004,177335,January,3
+2026-01-14,TVs,Nairobi,Bob,3,159988,76730,83258,January,3
+2026-01-14,Laptops,Rift Valley,Eve,8,554681,272463,282218,January,3
+2026-01-14,TVs,Western,David,2,121445,76671,44774,January,3
+2026-01-14,Phones,Rift Valley,David,3,118307,60430,57877,January,3
+2026-01-14,Phones,Western,Bob,14,642906,295776,347130,January,3
+2026-01-14,Laptops,Central,Carol,9,612665,312419,300246,January,3
+2026-01-14,Phones,Central,Eve,2,56862,36091,20771,January,3
+2026-01-15,TVs,Rift Valley,Frank,11,561991,315546,246445,January,3
+2026-01-15,Audio,Coast,Frank,3,23429,14082,9347,January,3
+2026-01-15,TVs,Coast,Bob,10,584234,281537,302697,January,3
+2026-01-15,Phones,Central,David,12,379440,210413,169027,January,3
+2026-01-15,Phones,Nairobi,David,13,512215,315216,196999,January,3
+2026-01-15,Phones,Rift Valley,Bob,1,31202,16978,14224,January,3
+2026-01-15,Audio,Rift Valley,Carol,2,16503,10215,6288,January,3
+2026-01-15,Laptops,Western,David,2,150115,74118,75997,January,3
+2026-01-15,Audio,Central,Carol,2,14288,7789,6499,January,3
+2026-01-15,Phones,Nairobi,Frank,3,109619,70905,38714,January,3
+2026-01-15,Phones,Western,Eve,12,401197,206521,194676,January,3
+2026-01-15,Laptops,Central,David,12,851221,536960,314261,January,3
+2026-01-15,Laptops,Coast,Carol,9,717590,379414,338176,January,3
+2026-01-15,Audio,Western,Bob,2,17032,8836,8196,January,3
+2026-01-15,Laptops,Rift Valley,Bob,13,1097701,626686,471015,January,3
+2026-01-16,Phones,Rift Valley,Bob,12,391412,228104,163308,January,3
+2026-01-16,Laptops,Rift Valley,Eve,13,777138,466247,310891,January,3
+2026-01-16,Phones,Coast,Carol,1,37995,24476,13519,January,3
+2026-01-16,Laptops,Coast,David,1,76026,42492,33534,January,3
+2026-01-16,Laptops,Coast,Eve,10,708135,420592,287543,January,3
+2026-01-16,Accessories,Nairobi,Carol,2,5033,2865,2168,January,3
+2026-01-16,TVs,Nairobi,Carol,10,552791,353028,199763,January,3
+2026-01-16,TVs,Western,Bob,2,79242,47817,31425,January,3
+2026-01-16,Accessories,Coast,Bob,2,4675,2409,2266,January,3
+2026-01-16,Phones,Western,David,7,269785,133581,136204,January,3
+2026-01-17,Laptops,Central,Eve,2,156268,80076,76192,January,3
+2026-01-17,Laptops,Rift Valley,Frank,7,398882,184652,214230,January,3
+2026-01-17,Phones,Rift Valley,Eve,13,470792,266005,204787,January,3
+2026-01-17,Phones,Coast,David,2,69377,31351,38026,January,3
+2026-01-17,Phones,Nairobi,David,12,430393,202335,228058,January,3
+2026-01-17,Accessories,Nairobi,Carol,7,14786,8550,6236,January,3
+2026-01-17,Laptops,Nairobi,Carol,14,799801,435742,364059,January,3
+2026-01-17,Phones,Central,Alice,4,135979,88274,47705,January,3
+2026-01-17,TVs,Western,Eve,3,159432,101316,58116,January,3
+2026-01-17,Phones,Nairobi,Carol,7,205473,102243,103230,January,3
+2026-01-17,Phones,Rift Valley,Bob,12,494583,257567,237016,January,3
+2026-01-17,TVs,Rift Valley,David,12,582117,357117,225000,January,3
+2026-01-17,Audio,Rift Valley,Frank,6,40894,20263,20631,January,3
+2026-01-17,Accessories,Rift Valley,Alice,10,19067,11387,7680,January,3
+2026-01-17,Phones,Coast,Alice,11,480754,297708,183046,January,3
+2026-01-18,Audio,Rift Valley,Alice,3,22736,10553,12183,January,3
+2026-01-18,Laptops,Coast,Bob,1,81850,45106,36744,January,3
+2026-01-18,Phones,Coast,Frank,13,413006,251318,161688,January,3
+2026-01-18,Phones,Rift Valley,David,12,385605,204941,180664,January,3
+2026-01-18,Laptops,Nairobi,Bob,10,617863,295539,322324,January,3
+2026-01-18,TVs,Nairobi,Eve,9,496346,248139,248207,January,3
+2026-01-19,Audio,Nairobi,Frank,10,65244,31606,33638,January,4
+2026-01-19,Accessories,Central,Alice,11,22763,11943,10820,January,4
+2026-01-19,Laptops,Nairobi,Carol,1,66108,40419,25689,January,4
+2026-01-19,Phones,Western,Carol,3,121023,77889,43134,January,4
+2026-01-19,Laptops,Nairobi,Alice,4,336517,189783,146734,January,4
+2026-01-19,Laptops,Rift Valley,Carol,4,350733,227554,123179,January,4
+2026-01-19,TVs,Central,Carol,4,161177,77660,83517,January,4
+2026-01-19,Audio,Rift Valley,Alice,1,9045,5737,3308,January,4
+2026-01-19,TVs,Coast,Carol,6,294727,137675,157052,January,4
+2026-01-19,Phones,Western,Frank,1,30610,15471,15139,January,4
+2026-01-19,Accessories,Coast,Alice,2,5597,3060,2537,January,4
+2026-01-20,Laptops,Coast,David,14,970119,449966,520153,January,4
+2026-01-20,Phones,Western,Carol,4,116263,64925,51338,January,4
+2026-01-20,TVs,Western,Bob,9,483358,273291,210067,January,4
+2026-01-20,Phones,Central,Carol,9,262493,133378,129115,January,4
+2026-01-20,Laptops,Rift Valley,David,5,328527,158214,170313,January,4
+2026-01-20,Audio,Rift Valley,Frank,14,112289,60981,51308,January,4
+2026-01-20,Phones,Western,David,5,185559,107046,78513,January,4
+2026-01-20,Audio,Nairobi,Alice,3,20863,9751,11112,January,4
+2026-01-20,Phones,Rift Valley,Bob,7,271460,159409,112051,January,4
+2026-01-21,Laptops,Rift Valley,Carol,5,390643,219995,170648,January,4
+2026-01-21,Laptops,Nairobi,Eve,6,379436,224866,154570,January,4
+2026-01-21,Audio,Western,David,13,82247,46131,36116,January,4
+2026-01-21,Phones,Central,David,11,367587,194715,172872,January,4
+2026-01-21,Accessories,Central,Carol,8,16394,8617,7777,January,4
+2026-01-21,Audio,Coast,Carol,2,15495,8044,7451,January,4
+2026-01-21,Audio,Rift Valley,Frank,5,37774,19268,18506,January,4
+2026-01-21,Phones,Rift Valley,Frank,10,348713,207064,141649,January,4
+2026-01-21,TVs,Western,Bob,13,788412,467287,321125,January,4
+2026-01-22,Phones,Nairobi,Alice,2,60457,27732,32725,January,4
+2026-01-22,TVs,Nairobi,Bob,9,584680,264090,320590,January,4
+2026-01-22,Phones,Nairobi,Bob,6,171467,77433,94034,January,4
+2026-01-22,TVs,Nairobi,Eve,8,426228,267553,158675,January,4
+2026-01-22,TVs,Nairobi,Carol,1,57388,29365,28023,January,4
+2026-01-22,Phones,Nairobi,Eve,14,434101,215454,218647,January,4
+2026-01-22,Phones,Central,Eve,13,371008,168169,202839,January,4
+2026-01-22,TVs,Western,Bob,1,59602,27955,31647,January,4
+2026-01-22,Audio,Rift Valley,Bob,6,51600,24812,26788,January,4
+2026-01-23,Laptops,Coast,Eve,13,652772,305078,347694,January,4
+2026-01-23,Phones,Nairobi,Eve,1,31353,17510,13843,January,4
+2026-01-23,TVs,Rift Valley,Alice,5,274749,171607,103142,January,4
+2026-01-23,Audio,Rift Valley,Bob,12,93363,56040,37323,January,4
+2026-01-24,TVs,Rift Valley,David,8,475311,241301,234010,January,4
+2026-01-24,Phones,Rift Valley,Alice,1,33161,15618,17543,January,4
+2026-01-24,Audio,Nairobi,Frank,7,51443,26761,24682,January,4
+2026-01-24,Phones,Coast,Alice,2,61835,32560,29275,January,4
+2026-01-24,TVs,Central,Alice,5,299837,181885,117952,January,4
+2026-01-24,Accessories,Nairobi,Alice,1,2389,1369,1020,January,4
+2026-01-24,Audio,Coast,Frank,2,14530,9121,5409,January,4
+2026-01-24,TVs,Western,David,11,673459,314111,359348,January,4
+2026-01-24,TVs,Rift Valley,Bob,2,118980,64896,54084,January,4
+2026-01-24,Audio,Coast,Frank,9,80233,37506,42727,January,4
+2026-01-24,TVs,Coast,Bob,5,242435,141010,101425,January,4
+2026-01-24,Laptops,Nairobi,Frank,13,993825,579385,414440,January,4
+2026-01-25,TVs,Coast,Carol,4,199877,124187,75690,January,4
+2026-01-25,Accessories,Nairobi,David,2,3675,1953,1722,January,4
+2026-01-25,TVs,Coast,Alice,14,733051,415864,317187,January,4
+2026-01-25,Accessories,Nairobi,Frank,11,25995,12795,13200,January,4
+2026-01-25,TVs,Western,David,14,717619,464278,253341,January,4
+2026-01-25,Laptops,Nairobi,Frank,1,67607,34588,33019,January,4
+2026-01-26,TVs,Central,Eve,7,429452,209702,219750,January,5
+2026-01-26,Phones,Central,Bob,14,525397,333492,191905,January,5
+2026-01-26,Audio,Coast,David,12,98359,57099,41260,January,5
+2026-01-26,Laptops,Coast,Bob,1,67734,33454,34280,January,5
+2026-01-26,Phones,Coast,Frank,14,498490,283754,214736,January,5
+2026-01-26,Phones,Rift Valley,Carol,3,106552,56325,50227,January,5
+2026-01-26,TVs,Central,Eve,1,60087,27837,32250,January,5
+2026-01-27,Phones,Nairobi,David,11,377623,183380,194243,January,5
+2026-01-27,TVs,Nairobi,Eve,9,587545,332116,255429,January,5
+2026-01-27,Audio,Coast,Frank,5,44346,26282,18064,January,5
+2026-01-27,Phones,Rift Valley,Eve,4,120079,62346,57733,January,5
+2026-01-27,Audio,Western,Bob,5,49357,31631,17726,January,5
+2026-01-27,Phones,Nairobi,Carol,10,447138,266710,180428,January,5
+2026-01-27,Phones,Rift Valley,Carol,3,114551,56306,58245,January,5
+2026-01-27,Phones,Central,Frank,14,556276,317369,238907,January,5
+2026-01-27,TVs,Rift Valley,Carol,14,816423,498657,317766,January,5
+2026-01-27,Phones,Central,Bob,6,223675,131853,91822,January,5
+2026-01-27,Laptops,Nairobi,David,10,664507,372597,291910,January,5
+2026-01-27,TVs,Rift Valley,Eve,13,727773,406762,321011,January,5
+2026-01-27,Laptops,Rift Valley,Frank,9,585666,374949,210717,January,5
+2026-01-28,Laptops,Central,Alice,7,517253,236242,281011,January,5
+2026-01-28,Laptops,Rift Valley,Eve,3,246114,144733,101381,January,5
+2026-01-28,Laptops,Nairobi,Frank,10,570043,286608,283435,January,5
+2026-01-28,Laptops,Western,Frank,14,813970,440046,373924,January,5
+2026-01-28,Laptops,Rift Valley,Bob,2,154774,95308,59466,January,5
+2026-01-28,Phones,Nairobi,Frank,4,129497,74737,54760,January,5
+2026-01-28,TVs,Coast,David,6,379111,206039,173072,January,5
+2026-01-28,Laptops,Rift Valley,Frank,14,1147580,726658,420922,January,5
+2026-01-28,TVs,Nairobi,Frank,11,710236,356004,354232,January,5
+2026-01-29,Phones,Central,Alice,11,348469,205232,143237,January,5
+2026-01-29,Accessories,Western,David,13,34032,20807,13225,January,5
+2026-01-29,Laptops,Nairobi,Alice,5,369826,210543,159283,January,5
+2026-01-29,Audio,Nairobi,David,4,29550,17362,12188,January,5
+2026-01-29,TVs,Rift Valley,Eve,3,162276,88726,73550,January,5
+2026-01-29,TVs,Nairobi,Frank,2,106508,52465,54043,January,5
+2026-01-29,Laptops,Nairobi,Eve,2,186505,111577,74928,January,5
+2026-01-29,Laptops,Nairobi,David,12,924130,455817,468313,January,5
+2026-01-29,Laptops,Nairobi,Alice,12,923313,434608,488705,January,5
+2026-01-29,Phones,Nairobi,Carol,10,354051,223525,130526,January,5
+2026-01-30,TVs,Rift Valley,David,2,118730,57193,61537,January,5
+2026-01-30,Laptops,Nairobi,David,13,891333,446441,444892,January,5
+2026-01-30,Laptops,Rift Valley,Frank,8,587124,379958,207166,January,5
+2026-01-30,Phones,Rift Valley,Bob,6,219417,101442,117975,January,5
+2026-01-30,TVs,Coast,Carol,9,394218,244297,149921,January,5
+2026-01-30,Laptops,Rift Valley,Alice,14,1226479,780442,446037,January,5
+2026-01-30,Laptops,Rift Valley,Frank,3,238689,135604,103085,January,5
+2026-01-30,TVs,Nairobi,Alice,1,50547,22884,27663,January,5
+2026-01-30,Audio,Central,Frank,4,33929,18605,15324,January,5
+2026-01-30,TVs,Coast,Eve,12,715465,376767,338698,January,5
+2026-01-30,Phones,Central,Frank,3,111838,58211,53627,January,5
+2026-01-30,Phones,Coast,David,9,312515,149478,163037,January,5
+2026-01-30,Accessories,Central,Carol,4,10029,5809,4220,January,5
+2026-01-30,Laptops,Nairobi,Eve,4,254669,125210,129459,January,5
+2026-01-31,Laptops,Coast,Carol,7,536463,263536,272927,January,5
+2026-01-31,Phones,Central,Eve,10,337979,212878,125101,January,5
+2026-01-31,Laptops,Central,Eve,8,591598,334117,257481,January,5
+2026-01-31,TVs,Nairobi,David,1,64016,30559,33457,January,5
+2026-01-31,TVs,Coast,Alice,7,464504,268872,195632,January,5
+2026-01-31,Accessories,Coast,Bob,3,6792,3867,2925,January,5
+2026-01-31,Phones,Rift Valley,Alice,14,481029,277629,203400,January,5
+2026-01-31,Phones,Central,Frank,8,297448,164467,132981,January,5
+2026-02-01,Audio,Coast,Alice,2,15301,7854,7447,February,5
+2026-02-01,Phones,Rift Valley,Carol,1,33124,17807,15317,February,5
+2026-02-01,Accessories,Central,Eve,8,23519,10610,12909,February,5
+2026-02-01,Laptops,Nairobi,Frank,4,272392,144897,127495,February,5
+2026-02-01,Laptops,Coast,Bob,3,228259,147060,81199,February,5
+2026-02-01,Phones,Nairobi,David,9,288528,152794,135734,February,5
+2026-02-02,Laptops,Nairobi,David,11,700787,427682,273105,February,6
+2026-02-02,Phones,Rift Valley,Carol,4,125011,75981,49030,February,6
+2026-02-02,Audio,Nairobi,Frank,4,32701,17606,15095,February,6
+2026-02-02,Accessories,Coast,Bob,2,4859,3087,1772,February,6
+2026-02-02,Phones,Rift Valley,Alice,9,327429,199422,128007,February,6
+2026-02-02,Accessories,Coast,Alice,11,20375,11091,9284,February,6
+2026-02-02,TVs,Coast,David,10,569891,330990,238901,February,6
+2026-02-02,Phones,Western,Carol,6,144528,85384,59144,February,6
+2026-02-02,Phones,Central,Eve,1,33535,19471,14064,February,6
+2026-02-02,TVs,Western,Frank,11,650773,346687,304086,February,6
+2026-02-02,Audio,Western,Eve,6,39828,23399,16429,February,6
+2026-02-02,Audio,Nairobi,Eve,9,76681,44437,32244,February,6
+2026-02-02,Phones,Rift Valley,Eve,8,215372,124673,90699,February,6
+2026-02-03,Phones,Western,Frank,14,542067,314682,227385,February,6
+2026-02-03,Phones,Rift Valley,David,4,127847,64085,63762,February,6
+2026-02-03,TVs,Nairobi,Eve,4,208921,99945,108976,February,6
+2026-02-03,Laptops,Nairobi,Eve,5,338992,180696,158296,February,6
+2026-02-03,TVs,Coast,Eve,1,58209,36849,21360,February,6
+2026-02-03,Laptops,Nairobi,Carol,8,690042,403504,286538,February,6
+2026-02-04,Audio,Nairobi,Eve,6,48851,30332,18519,February,6
+2026-02-04,Phones,Central,Eve,7,241635,136654,104981,February,6
+2026-02-04,Phones,Western,Frank,3,121400,60864,60536,February,6
+2026-02-04,Laptops,Western,David,1,63786,28751,35035,February,6
+2026-02-04,Accessories,Coast,David,4,11894,5589,6305,February,6
+2026-02-04,TVs,Nairobi,David,10,532400,341247,191153,February,6
+2026-02-04,Phones,Rift Valley,Frank,2,74643,45122,29521,February,6
+2026-02-04,Accessories,Rift Valley,Alice,11,23444,14809,8635,February,6
+2026-02-04,Laptops,Nairobi,Bob,8,561542,286281,275261,February,6
+2026-02-04,Laptops,Nairobi,Alice,1,76553,38870,37683,February,6
+2026-02-05,Laptops,Western,Frank,2,156422,99993,56429,February,6
+2026-02-05,Accessories,Western,Carol,9,25954,13782,12172,February,6
+2026-02-05,Laptops,Western,Eve,2,112597,57395,55202,February,6
+2026-02-05,Laptops,Nairobi,Carol,8,546983,313751,233232,February,6
+2026-02-06,Phones,Central,Frank,6,231348,122128,109220,February,6
+2026-02-06,TVs,Western,Eve,8,483767,253808,229959,February,6
+2026-02-06,Laptops,Coast,David,14,1013969,483248,530721,February,6
+2026-02-06,TVs,Western,Eve,10,544632,286507,258125,February,6
+2026-02-06,Phones,Nairobi,David,6,151942,92863,59079,February,6
+2026-02-06,Phones,Central,Alice,5,187422,121154,66268,February,6
+2026-02-06,Accessories,Coast,Alice,10,24196,11235,12961,February,6
+2026-02-06,Accessories,Western,Alice,10,28414,15032,13382,February,6
+2026-02-06,Accessories,Western,Carol,9,25796,16136,9660,February,6
+2026-02-06,Accessories,Rift Valley,Carol,14,32215,17753,14462,February,6
+2026-02-07,Laptops,Rift Valley,David,12,1078318,604879,473439,February,6
+2026-02-07,Audio,Western,Frank,14,100191,53858,46333,February,6
+2026-02-07,TVs,Nairobi,Bob,10,493015,252052,240963,February,6
+2026-02-07,TVs,Western,Eve,12,606614,291950,314664,February,6
+2026-02-07,Laptops,Nairobi,Alice,8,611446,356277,255169,February,6
+2026-02-07,Laptops,Western,Eve,3,176741,108344,68397,February,6
+2026-02-07,Audio,Nairobi,Alice,2,13208,8286,4922,February,6
+2026-02-07,Phones,Western,Eve,14,427235,221175,206060,February,6
+2026-02-07,TVs,Coast,David,11,559667,332812,226855,February,6
+2026-02-07,Audio,Coast,Eve,6,36958,21915,15043,February,6
+2026-02-07,Accessories,Central,Bob,6,16071,9744,6327,February,6
+2026-02-07,Phones,Coast,Carol,13,376886,186205,190681,February,6
+2026-02-07,Laptops,Coast,David,10,709062,333358,375704,February,6
+2026-02-08,TVs,Rift Valley,Eve,4,233496,124725,108771,February,6
+2026-02-08,Phones,Western,Alice,3,110618,65455,45163,February,6
+2026-02-08,Phones,Rift Valley,David,2,65406,34159,31247,February,6
+2026-02-08,Laptops,Western,Bob,8,585251,331468,253783,February,6
+2026-02-08,Laptops,Nairobi,Alice,1,68721,42703,26018,February,6
+2026-02-08,Audio,Nairobi,David,13,116872,53246,63626,February,6
+2026-02-08,Accessories,Coast,Eve,5,11893,7509,4384,February,6
+2026-02-08,Accessories,Central,David,13,29510,17797,11713,February,6
+2026-02-09,Laptops,Nairobi,Frank,9,717140,392024,325116,February,7
+2026-02-09,Accessories,Rift Valley,Alice,14,29869,14654,15215,February,7
+2026-02-09,TVs,Western,Eve,2,95337,49848,45489,February,7
+2026-02-09,Phones,Central,Bob,6,228315,145228,83087,February,7
+2026-02-09,Laptops,Central,Frank,11,693108,434744,258364,February,7
+2026-02-09,Phones,Nairobi,Frank,12,456499,235956,220543,February,7
+2026-02-09,Accessories,Coast,Frank,1,2443,1343,1100,February,7
+2026-02-09,Laptops,Nairobi,Alice,5,355519,181601,173918,February,7
+2026-02-09,TVs,Coast,Alice,5,257105,122045,135060,February,7
+2026-02-09,Laptops,Nairobi,Eve,5,407418,259489,147929,February,7
+2026-02-10,Phones,Coast,David,12,378688,196959,181729,February,7
+2026-02-10,TVs,Rift Valley,Frank,4,230023,131105,98918,February,7
+2026-02-10,Phones,Western,Frank,14,561362,348864,212498,February,7
+2026-02-10,Laptops,Rift Valley,Bob,13,930549,597534,333015,February,7
+2026-02-10,TVs,Coast,David,10,490736,268212,222524,February,7
+2026-02-10,Accessories,Rift Valley,David,11,23092,12587,10505,February,7
+2026-02-10,Audio,Central,David,14,96079,46034,50045,February,7
+2026-02-10,Laptops,Nairobi,David,10,667142,383667,283475,February,7
+2026-02-10,Phones,Central,Eve,7,227681,111621,116060,February,7
+2026-02-11,TVs,Nairobi,Frank,1,50196,23947,26249,February,7
+2026-02-11,Laptops,Coast,Frank,9,604859,370076,234783,February,7
+2026-02-11,TVs,Central,David,7,479436,290073,189363,February,7
+2026-02-11,Phones,Coast,Frank,11,334059,191374,142685,February,7
+2026-02-11,TVs,Coast,Bob,2,125450,69792,55658,February,7
+2026-02-11,TVs,Rift Valley,David,4,215039,119016,96023,February,7
+2026-02-11,TVs,Nairobi,Alice,14,769896,397721,372175,February,7
+2026-02-11,TVs,Nairobi,Alice,10,587303,286032,301271,February,7
+2026-02-11,Accessories,Rift Valley,Carol,14,35307,18729,16578,February,7
+2026-02-11,Phones,Western,Frank,14,553432,355764,197668,February,7
+2026-02-11,Phones,Rift Valley,Frank,7,248589,120476,128113,February,7
+2026-02-11,Phones,Coast,Carol,10,422544,261392,161152,February,7
+2026-02-12,Audio,Rift Valley,Bob,3,24557,15816,8741,February,7
+2026-02-12,Accessories,Nairobi,Eve,7,17075,8991,8084,February,7
+2026-02-12,TVs,Rift Valley,David,4,230354,113534,116820,February,7
+2026-02-12,Phones,Rift Valley,Bob,3,129146,73391,55755,February,7
+2026-02-12,Audio,Nairobi,Frank,12,84142,48716,35426,February,7
+2026-02-12,Phones,Rift Valley,Frank,2,57183,34754,22429,February,7
+2026-02-12,Laptops,Rift Valley,Carol,12,1100345,546287,554058,February,7
+2026-02-13,Laptops,Central,Eve,13,1067230,576752,490478,February,7
+2026-02-13,TVs,Western,Frank,10,567355,302344,265011,February,7
+2026-02-13,TVs,Nairobi,Alice,13,759020,353686,405334,February,7
+2026-02-13,Audio,Coast,David,10,54922,33250,21672,February,7
+2026-02-13,TVs,Nairobi,Carol,3,127597,59122,68475,February,7
+2026-02-13,Laptops,Nairobi,Frank,4,351638,205274,146364,February,7
+2026-02-13,Phones,Rift Valley,Frank,1,34475,21536,12939,February,7
+2026-02-13,Laptops,Western,Frank,1,86725,40537,46188,February,7
+2026-02-13,Accessories,Rift Valley,Frank,10,22726,11511,11215,February,7
+2026-02-13,Phones,Nairobi,Eve,9,302923,186200,116723,February,7
+2026-02-13,TVs,Rift Valley,Bob,5,287775,172300,115475,February,7
+2026-02-13,TVs,Nairobi,Frank,6,309584,170126,139458,February,7
+2026-02-13,Audio,Central,Eve,13,108829,63464,45365,February,7
+2026-02-14,Audio,Nairobi,Frank,9,88641,57476,31165,February,7
+2026-02-14,Phones,Western,Frank,11,446045,229709,216336,February,7
+2026-02-14,Laptops,Rift Valley,Alice,5,429597,202025,227572,February,7
+2026-02-14,Laptops,Western,Eve,8,754332,441350,312982,February,7
+2026-02-14,Phones,Nairobi,David,4,138776,89568,49208,February,7
+2026-02-14,Laptops,Western,Alice,9,642307,412411,229896,February,7
+2026-02-14,Audio,Rift Valley,Alice,6,44378,26040,18338,February,7
+2026-02-15,Phones,Nairobi,Bob,5,180611,116317,64294,February,7
+2026-02-15,Laptops,Nairobi,Carol,6,384448,227684,156764,February,7
+2026-02-15,Phones,Western,Eve,13,463665,282031,181634,February,7
+2026-02-15,Phones,Rift Valley,Alice,4,146519,94835,51684,February,7
+2026-02-15,Audio,Coast,David,11,73251,33762,39489,February,7
+2026-02-15,Phones,Rift Valley,Bob,10,361469,190405,171064,February,7
+2026-02-15,Phones,Coast,Bob,4,169183,100463,68720,February,7
+2026-02-15,Laptops,Western,Carol,7,589004,289820,299184,February,7
+2026-02-16,Accessories,Coast,Eve,3,7108,4579,2529,February,8
+2026-02-16,Accessories,Coast,Frank,10,31076,16119,14957,February,8
+2026-02-16,Accessories,Rift Valley,Frank,10,27346,13172,14174,February,8
+2026-02-16,Accessories,Central,Eve,3,5805,3374,2431,February,8
+2026-02-16,Phones,Rift Valley,Alice,4,124720,74794,49926,February,8
+2026-02-16,Phones,Coast,Alice,6,181141,102766,78375,February,8
+2026-02-16,Accessories,Coast,Eve,12,30535,18138,12397,February,8
+2026-02-16,Laptops,Coast,David,1,60447,36396,24051,February,8
+2026-02-16,Accessories,Central,Eve,9,25620,14898,10722,February,8
+2026-02-17,Phones,Western,Frank,13,434431,233996,200435,February,8
+2026-02-17,Audio,Coast,Carol,4,33695,17696,15999,February,8
+2026-02-17,Phones,Western,Eve,5,154543,80587,73956,February,8
+2026-02-17,Accessories,Nairobi,David,13,37729,23554,14175,February,8
+2026-02-17,Laptops,Coast,Bob,2,160051,98194,61857,February,8
+2026-02-17,Accessories,Nairobi,Frank,9,24322,15136,9186,February,8
+2026-02-17,TVs,Coast,Alice,9,563267,308920,254347,February,8
+2026-02-18,Phones,Central,Eve,12,499222,246591,252631,February,8
+2026-02-18,TVs,Western,Frank,1,48320,24949,23371,February,8
+2026-02-18,TVs,Nairobi,Bob,10,620332,398019,222313,February,8
+2026-02-18,Laptops,Nairobi,Frank,6,415807,214438,201369,February,8
+2026-02-18,TVs,Nairobi,Eve,5,299147,169542,129605,February,8
+2026-02-18,Phones,Western,Eve,14,591137,345526,245611,February,8
+2026-02-18,Phones,Western,Frank,8,227676,121588,106088,February,8
+2026-02-18,Laptops,Central,Alice,6,531405,246266,285139,February,8
+2026-02-18,Accessories,Rift Valley,Eve,13,29494,16437,13057,February,8
+2026-02-18,Phones,Coast,Eve,10,321214,181109,140105,February,8
+2026-02-18,TVs,Coast,Frank,11,634567,396826,237741,February,8
+2026-02-19,Phones,Coast,Carol,1,38098,20054,18044,February,8
+2026-02-19,Audio,Coast,Alice,10,80579,40099,40480,February,8
+2026-02-19,TVs,Nairobi,Alice,10,549605,312853,236752,February,8
+2026-02-19,Phones,Coast,Eve,4,152630,80494,72136,February,8
+2026-02-19,TVs,Central,Eve,9,446009,224214,221795,February,8
+2026-02-19,Phones,Rift Valley,Bob,3,94049,49244,44805,February,8
+2026-02-19,Laptops,Coast,Alice,11,950875,537783,413092,February,8
+2026-02-19,Phones,Coast,Alice,7,226167,107160,119007,February,8
+2026-02-20,TVs,Nairobi,Frank,10,590674,359076,231598,February,8
+2026-02-20,Accessories,Nairobi,Alice,6,15922,9149,6773,February,8
+2026-02-20,Phones,Western,David,4,169279,107850,61429,February,8
+2026-02-20,Accessories,Nairobi,Frank,5,12811,6730,6081,February,8
+2026-02-20,TVs,Nairobi,Carol,1,62245,33326,28919,February,8
+2026-02-20,Phones,Coast,Carol,11,326702,168248,158454,February,8
+2026-02-20,TVs,Western,Frank,3,198126,111231,86895,February,8
+2026-02-20,Phones,Central,Alice,6,182672,83247,99425,February,8
+2026-02-20,Phones,Nairobi,David,6,215621,123636,91985,February,8
+2026-02-20,Phones,Nairobi,Bob,13,548095,324911,223184,February,8
+2026-02-20,Audio,Coast,Alice,8,62469,35507,26962,February,8
+2026-02-20,Laptops,Nairobi,Alice,4,265009,131794,133215,February,8
+2026-02-20,Accessories,Coast,Eve,6,15338,7490,7848,February,8
+2026-02-20,Audio,Nairobi,Carol,11,91672,54738,36934,February,8
+2026-02-21,Laptops,Rift Valley,Eve,11,1026053,496745,529308,February,8
+2026-02-21,Accessories,Nairobi,David,9,17679,9000,8679,February,8
+2026-02-21,TVs,Western,David,4,222775,138771,84004,February,8
+2026-02-21,Phones,Nairobi,David,6,220629,136977,83652,February,8
+2026-02-21,Phones,Nairobi,Frank,6,196469,121929,74540,February,8
+2026-02-21,Accessories,Rift Valley,Bob,7,19308,11792,7516,February,8
+2026-02-21,TVs,Coast,Bob,6,315734,203481,112253,February,8
+2026-02-21,Phones,Nairobi,Eve,1,34795,16426,18369,February,8
+2026-02-21,Laptops,Western,David,10,696605,390848,305757,February,8
+2026-02-21,Accessories,Nairobi,Alice,8,20421,11360,9061,February,8
+2026-02-21,TVs,Nairobi,Carol,2,121474,65695,55779,February,8
+2026-02-22,Accessories,Western,Bob,11,28692,16865,11827,February,8
+2026-02-22,Phones,Rift Valley,Frank,12,370598,197706,172892,February,8
+2026-02-22,Laptops,Central,Frank,11,823048,448618,374430,February,8
+2026-02-22,TVs,Central,Carol,13,617765,368418,249347,February,8
+2026-02-22,Phones,Nairobi,Frank,3,98521,50755,47766,February,8
+2026-02-22,Accessories,Nairobi,Bob,11,28255,15808,12447,February,8
+2026-02-22,TVs,Nairobi,Alice,9,398875,227709,171166,February,8
+2026-02-22,Phones,Nairobi,Bob,9,306103,166056,140047,February,8
+2026-02-22,TVs,Western,Eve,4,197110,128112,68998,February,8
+2026-02-22,Phones,Nairobi,Carol,13,432115,237603,194512,February,8
+2026-02-22,Phones,Nairobi,Eve,9,259340,146017,113323,February,8
+2026-02-23,Laptops,Central,David,10,903029,407439,495590,February,9
+2026-02-23,TVs,Nairobi,Frank,14,775219,418502,356717,February,9
+2026-02-23,Accessories,Nairobi,David,10,28644,15257,13387,February,9
+2026-02-23,Laptops,Central,Bob,10,802141,447642,354499,February,9
+2026-02-23,Accessories,Coast,Alice,14,40376,22524,17852,February,9
+2026-02-23,Phones,Nairobi,Bob,10,379458,244988,134470,February,9
+2026-02-23,TVs,Rift Valley,Alice,14,588242,271639,316603,February,9
+2026-02-23,TVs,Coast,Alice,2,99360,50603,48757,February,9
+2026-02-23,Accessories,Nairobi,Frank,4,10062,5108,4954,February,9
+2026-02-23,Audio,Western,David,6,47960,28802,19158,February,9
+2026-02-23,Laptops,Coast,Bob,3,218355,107535,110820,February,9
+2026-02-23,Laptops,Rift Valley,Carol,10,783996,405340,378656,February,9
+2026-02-23,Phones,Rift Valley,Eve,9,315609,185513,130096,February,9
+2026-02-24,TVs,Central,David,12,679099,431282,247817,February,9
+2026-02-24,TVs,Coast,Bob,9,507807,312407,195400,February,9
+2026-02-24,Laptops,Central,Carol,7,526452,260465,265987,February,9
+2026-02-24,TVs,Coast,Carol,3,164456,90364,74092,February,9
+2026-02-24,Phones,Coast,Frank,4,147650,68238,79412,February,9
+2026-02-24,Audio,Nairobi,Bob,8,64032,37888,26144,February,9
+2026-02-24,Laptops,Nairobi,Carol,2,171643,108035,63608,February,9
+2026-02-24,Phones,Nairobi,Eve,9,279953,178319,101634,February,9
+2026-02-24,Laptops,Nairobi,Frank,4,367773,224474,143299,February,9
+2026-02-25,Phones,Rift Valley,Carol,2,67969,33232,34737,February,9
+2026-02-25,Laptops,Coast,Carol,4,383151,214353,168798,February,9
+2026-02-25,Phones,Coast,Bob,4,103380,63889,39491,February,9
+2026-02-25,Phones,Nairobi,Alice,11,334816,199762,135054,February,9
+2026-02-25,TVs,Rift Valley,Eve,12,585300,305026,280274,February,9
+2026-02-25,Audio,Rift Valley,Bob,11,93250,59071,34179,February,9
+2026-02-25,TVs,Rift Valley,David,8,441042,220937,220105,February,9
+2026-02-25,Accessories,Nairobi,Eve,2,3824,2303,1521,February,9
+2026-02-26,Laptops,Rift Valley,Bob,14,1051333,632469,418864,February,9
+2026-02-26,Accessories,Nairobi,Eve,10,18016,10084,7932,February,9
+2026-02-26,Phones,Coast,Frank,5,207300,126632,80668,February,9
+2026-02-26,Laptops,Western,Alice,8,585236,378283,206953,February,9
+2026-02-26,TVs,Central,Alice,10,567022,311972,255050,February,9
+2026-02-26,TVs,Nairobi,Frank,8,387574,234467,153107,February,9
+2026-02-26,Accessories,Coast,Carol,10,25880,15656,10224,February,9
+2026-02-26,Phones,Central,Alice,14,512637,310740,201897,February,9
+2026-02-26,TVs,Nairobi,Carol,8,447262,262948,184314,February,9
+2026-02-26,Phones,Western,Eve,10,361023,193843,167180,February,9
+2026-02-26,Phones,Nairobi,Bob,6,197503,112239,85264,February,9
+2026-02-26,Phones,Western,Bob,12,382312,225800,156512,February,9
+2026-02-26,Audio,Coast,Eve,8,67705,38385,29320,February,9
+2026-02-26,Audio,Central,Carol,8,70089,37429,32660,February,9
+2026-02-26,Laptops,Western,Alice,9,646060,314129,331931,February,9
+2026-02-27,TVs,Rift Valley,Frank,8,416815,244626,172189,February,9
+2026-02-27,Phones,Western,David,9,288541,168517,120024,February,9
+2026-02-27,TVs,Nairobi,Frank,11,431265,215828,215437,February,9
+2026-02-27,TVs,Rift Valley,Carol,1,66829,39556,27273,February,9
+2026-02-27,Phones,Nairobi,David,4,131233,62959,68274,February,9
+2026-02-27,Laptops,Nairobi,Bob,2,185622,100945,84677,February,9
+2026-02-27,Accessories,Central,Carol,4,10445,5335,5110,February,9
+2026-02-27,TVs,Nairobi,Frank,14,778866,436788,342078,February,9
+2026-02-27,TVs,Nairobi,Frank,6,272810,159623,113187,February,9
+2026-02-27,TVs,Coast,Eve,1,51589,27761,23828,February,9
+2026-02-27,Audio,Nairobi,David,8,66427,38829,27598,February,9
+2026-02-27,Laptops,Rift Valley,Bob,2,165319,105600,59719,February,9
+2026-02-28,TVs,Rift Valley,Frank,14,822065,528968,293097,February,9
+2026-02-28,TVs,Coast,David,6,388989,218094,170895,February,9
+2026-02-28,TVs,Nairobi,Eve,2,114368,57441,56927,February,9
+2026-02-28,Phones,Coast,Carol,11,315929,197008,118921,February,9
+2026-02-28,TVs,Central,Eve,14,819480,437434,382046,February,9
+2026-02-28,Laptops,Coast,Alice,7,496033,236603,259430,February,9
+2026-02-28,TVs,Coast,Frank,7,305790,176380,129410,February,9
+2026-02-28,Phones,Rift Valley,David,1,35126,17431,17695,February,9
+2026-03-01,Laptops,Central,Frank,7,619242,283276,335966,March,9
+2026-03-01,TVs,Coast,Carol,7,355079,220885,134194,March,9
+2026-03-01,Laptops,Western,Carol,10,675584,342370,333214,March,9
+2026-03-01,Laptops,Western,Eve,11,891292,410240,481052,March,9
+2026-03-01,Laptops,Coast,Carol,10,770910,403249,367661,March,9
+2026-03-01,Laptops,Rift Valley,Carol,12,1076464,564145,512319,March,9
+2026-03-01,Phones,Nairobi,Frank,14,449991,271925,178066,March,9
+2026-03-01,Phones,Rift Valley,David,4,139071,73187,65884,March,9
+2026-03-01,Accessories,Coast,Frank,8,14987,7637,7350,March,9
+2026-03-01,Laptops,Coast,Alice,1,69461,38466,30995,March,9
+2026-03-01,TVs,Rift Valley,Carol,6,292770,175838,116932,March,9
+2026-03-01,Audio,Nairobi,David,11,105694,52808,52886,March,9
+2026-03-01,Laptops,Coast,Eve,10,688358,338799,349559,March,9
+2026-03-02,Laptops,Nairobi,Carol,11,900845,508906,391939,March,10
+2026-03-02,Laptops,Coast,David,4,235281,132720,102561,March,10
+2026-03-02,Accessories,Central,Eve,2,4415,2768,1647,March,10
+2026-03-02,TVs,Central,Eve,11,677872,404638,273234,March,10
+2026-03-02,Accessories,Nairobi,Frank,3,6694,3805,2889,March,10
+2026-03-02,Accessories,Western,Bob,9,20293,10690,9603,March,10
+2026-03-02,Accessories,Nairobi,Bob,7,15729,9679,6050,March,10
+2026-03-02,Laptops,Western,Carol,11,856581,456312,400269,March,10
+2026-03-02,Phones,Coast,David,13,464396,285274,179122,March,10
+2026-03-03,Laptops,Nairobi,Bob,11,596068,344776,251292,March,10
+2026-03-03,Laptops,Nairobi,Bob,1,79583,41116,38467,March,10
+2026-03-03,Phones,Nairobi,Alice,3,103641,60600,43041,March,10
+2026-03-03,Phones,Rift Valley,Carol,4,134635,66174,68461,March,10
+2026-03-03,TVs,Nairobi,Frank,14,629358,392908,236450,March,10
+2026-03-03,Phones,Coast,Alice,9,335168,208177,126991,March,10
+2026-03-03,Accessories,Central,Alice,14,25953,14829,11124,March,10
+2026-03-04,TVs,Rift Valley,Frank,7,340438,201438,139000,March,10
+2026-03-04,Laptops,Nairobi,Alice,9,781532,438754,342778,March,10
+2026-03-04,TVs,Rift Valley,David,10,553262,306273,246989,March,10
+2026-03-04,Phones,Nairobi,Eve,5,186360,105726,80634,March,10
+2026-03-04,Laptops,Coast,Bob,1,73415,43053,30362,March,10
+2026-03-05,Accessories,Central,Frank,5,15486,9494,5992,March,10
+2026-03-05,Accessories,Coast,Frank,1,2456,1487,969,March,10
+2026-03-05,Phones,Nairobi,Frank,7,214569,134799,79770,March,10
+2026-03-05,Phones,Western,Alice,6,181756,104849,76907,March,10
+2026-03-05,TVs,Rift Valley,Frank,13,372854,196159,176695,March,10
+2026-03-05,Accessories,Nairobi,Bob,4,10129,4807,5322,March,10
+2026-03-05,Laptops,Nairobi,David,3,156196,83324,72872,March,10
+2026-03-05,TVs,Nairobi,Alice,1,50099,31888,18211,March,10
+2026-03-05,Phones,Nairobi,Eve,6,198525,118456,80069,March,10
+2026-03-05,Phones,Central,David,5,204729,120918,83811,March,10
+2026-03-06,TVs,Rift Valley,Eve,12,594702,342963,251739,March,10
+2026-03-06,Phones,Rift Valley,Eve,5,163155,86739,76416,March,10
+2026-03-06,TVs,Nairobi,Bob,3,153216,77663,75553,March,10
+2026-03-06,TVs,Nairobi,Eve,9,403571,223837,179734,March,10
+2026-03-06,Audio,Nairobi,Frank,10,90836,43675,47161,March,10
+2026-03-06,Phones,Rift Valley,Eve,13,390096,217346,172750,March,10
+2026-03-06,Phones,Nairobi,Bob,2,77573,48622,28951,March,10
+2026-03-06,Audio,Coast,Eve,14,98211,48606,49605,March,10
+2026-03-06,Phones,Nairobi,Eve,6,215835,113047,102788,March,10
+2026-03-06,Audio,Nairobi,Eve,11,79785,42847,36938,March,10
+2026-03-06,TVs,Rift Valley,David,8,501408,319698,181710,March,10
+2026-03-06,Phones,Western,David,14,601151,327158,273993,March,10
+2026-03-06,Laptops,Nairobi,Alice,8,505699,303991,201708,March,10
+2026-03-06,Accessories,Nairobi,Carol,6,15743,9139,6604,March,10
+2026-03-07,Audio,Western,Alice,2,13888,6657,7231,March,10
+2026-03-07,Accessories,Western,Eve,4,10755,5349,5406,March,10
+2026-03-07,Phones,Western,David,13,425069,206610,218459,March,10
+2026-03-07,Accessories,Rift Valley,David,9,18319,10643,7676,March,10
+2026-03-07,Audio,Nairobi,David,10,87982,53594,34388,March,10
+2026-03-07,Phones,Nairobi,Alice,6,237920,122912,115008,March,10
+2026-03-07,Phones,Western,Alice,9,380247,189199,191048,March,10
+2026-03-07,Phones,Coast,Carol,13,393478,222816,170662,March,10
+2026-03-07,TVs,Western,Frank,12,507237,234709,272528,March,10
+2026-03-07,Phones,Western,Alice,3,117851,75660,42191,March,10
+2026-03-08,Phones,Central,Alice,12,404571,194441,210130,March,10
+2026-03-08,Accessories,Central,Bob,11,28503,14148,14355,March,10
+2026-03-08,Phones,Rift Valley,Bob,9,248556,115030,133526,March,10
+2026-03-08,Phones,Western,Frank,4,156633,95487,61146,March,10
+2026-03-08,Laptops,Rift Valley,Eve,9,723753,412632,311121,March,10
+2026-03-08,Phones,Nairobi,Alice,8,254429,131170,123259,March,10
+2026-03-08,TVs,Nairobi,Alice,14,824064,403770,420294,March,10
+2026-03-08,Audio,Central,Frank,5,30781,14687,16094,March,10
+2026-03-08,Accessories,Nairobi,David,14,38343,19062,19281,March,10
+2026-03-08,Phones,Nairobi,David,13,496655,301340,195315,March,10
+2026-03-08,Laptops,Nairobi,Carol,6,457968,278677,179291,March,10
+2026-03-08,Phones,Western,David,11,388219,185559,202660,March,10
+2026-03-09,Audio,Coast,Eve,6,54517,24911,29606,March,11
+2026-03-09,Laptops,Rift Valley,Bob,8,646421,334108,312313,March,11
+2026-03-09,TVs,Western,Alice,3,137685,69140,68545,March,11
+2026-03-09,Accessories,Coast,Frank,11,25836,14132,11704,March,11
+2026-03-09,Laptops,Coast,Bob,7,537938,300153,237785,March,11
+2026-03-09,TVs,Rift Valley,Frank,6,289569,139675,149894,March,11
+2026-03-09,Phones,Coast,Carol,11,369457,192612,176845,March,11
+2026-03-09,Phones,Coast,David,5,178693,108741,69952,March,11
+2026-03-09,Laptops,Nairobi,David,9,648636,371350,277286,March,11
+2026-03-09,TVs,Nairobi,Frank,2,138338,84868,53470,March,11
+2026-03-10,Phones,Western,Eve,10,334065,200734,133331,March,11
+2026-03-10,TVs,Nairobi,Eve,12,710989,391716,319273,March,11
+2026-03-10,Accessories,Rift Valley,Bob,8,17775,10975,6800,March,11
+2026-03-10,Accessories,Coast,Frank,7,13723,6530,7193,March,11
+2026-03-10,Audio,Western,Frank,2,17001,10458,6543,March,11
+2026-03-10,Laptops,Coast,Frank,12,1123575,595585,527990,March,11
+2026-03-10,Phones,Nairobi,Carol,5,182656,90993,91663,March,11
+2026-03-10,Phones,Nairobi,Carol,9,358639,168573,190066,March,11
+2026-03-10,Phones,Nairobi,Eve,7,173676,83355,90321,March,11
+2026-03-11,Audio,Central,Bob,1,9121,4907,4214,March,11
+2026-03-11,TVs,Rift Valley,Eve,11,664403,391356,273047,March,11
+2026-03-11,Accessories,Western,David,3,7720,4652,3068,March,11
+2026-03-11,TVs,Nairobi,David,4,257402,161662,95740,March,11
+2026-03-11,Accessories,Nairobi,Frank,7,14664,8825,5839,March,11
+2026-03-11,Audio,Central,Eve,11,102911,48083,54828,March,11
+2026-03-11,Audio,Rift Valley,David,6,55107,31360,23747,March,11
+2026-03-12,Laptops,Rift Valley,David,5,394149,252964,141185,March,11
+2026-03-12,Audio,Rift Valley,Carol,11,90536,43489,47047,March,11
+2026-03-12,TVs,Coast,David,13,858586,387357,471229,March,11
+2026-03-12,TVs,Rift Valley,Alice,3,144674,67915,76759,March,11
+2026-03-12,Phones,Western,Frank,12,390086,175557,214529,March,11
+2026-03-12,Audio,Nairobi,David,10,85851,50653,35198,March,11
+2026-03-12,Accessories,Rift Valley,Eve,11,23817,11877,11940,March,11
+2026-03-12,Laptops,Nairobi,David,6,403771,186791,216980,March,11
+2026-03-12,Laptops,Nairobi,Bob,14,1183522,662567,520955,March,11
+2026-03-13,Accessories,Rift Valley,Bob,14,30283,15886,14397,March,11
+2026-03-13,Laptops,Western,Bob,13,952290,454742,497548,March,11
+2026-03-13,Accessories,Western,Carol,12,32429,18180,14249,March,11
+2026-03-13,TVs,Coast,Eve,2,84828,54790,30038,March,11
+2026-03-13,Phones,Nairobi,Bob,12,416729,235043,181686,March,11
+2026-03-13,Laptops,Nairobi,Frank,6,413472,238573,174899,March,11
+2026-03-13,Phones,Rift Valley,Carol,6,223496,114202,109294,March,11
+2026-03-13,Phones,Nairobi,Carol,10,291358,132808,158550,March,11
+2026-03-13,Phones,Nairobi,Eve,12,444492,286469,158023,March,11
+2026-03-13,Laptops,Western,Carol,10,647328,293252,354076,March,11
+2026-03-13,Accessories,Nairobi,Alice,2,5899,2924,2975,March,11
+2026-03-13,Phones,Coast,Eve,11,384113,225081,159032,March,11
+2026-03-14,TVs,Rift Valley,David,6,339100,190241,148859,March,11
+2026-03-14,Phones,Nairobi,David,10,390594,237752,152842,March,11
+2026-03-14,Phones,Nairobi,Alice,10,309434,141962,167472,March,11
+2026-03-14,Phones,Nairobi,Carol,11,389775,239118,150657,March,11
+2026-03-14,Laptops,Nairobi,Alice,14,1038455,587947,450508,March,11
+2026-03-14,Audio,Coast,Frank,11,73750,33922,39828,March,11
+2026-03-14,TVs,Nairobi,Alice,13,749902,375967,373935,March,11
+2026-03-14,Accessories,Nairobi,Eve,1,2823,1535,1288,March,11
+2026-03-14,Phones,Nairobi,Carol,14,503233,291945,211288,March,11
+2026-03-14,Phones,Central,Alice,12,393758,221064,172694,March,11
+2026-03-14,Accessories,Rift Valley,Eve,5,11881,7115,4766,March,11
+2026-03-14,Audio,Nairobi,Alice,7,58219,36035,22184,March,11
+2026-03-14,Laptops,Coast,Eve,11,756677,431925,324752,March,11
+2026-03-14,Phones,Rift Valley,David,14,542318,263176,279142,March,11
+2026-03-14,Phones,Coast,Frank,12,401299,215574,185725,March,11
+2026-03-15,Audio,Central,Eve,13,126302,75985,50317,March,11
+2026-03-15,Laptops,Nairobi,Alice,4,277531,159519,118012,March,11
+2026-03-15,Phones,Coast,Eve,11,289660,141802,147858,March,11
+2026-03-15,TVs,Central,Frank,2,97138,53253,43885,March,11
+2026-03-15,Laptops,Nairobi,Bob,12,801914,467627,334287,March,11
+2026-03-15,Audio,Coast,David,2,15729,9147,6582,March,11
+2026-03-15,Laptops,Coast,Bob,6,514695,266552,248143,March,11
+2026-03-15,Phones,Coast,Frank,11,354281,192725,161556,March,11
+2026-03-16,Phones,Central,Carol,2,70357,38218,32139,March,12
+2026-03-16,TVs,Coast,David,12,634535,291620,342915,March,12
+2026-03-16,Phones,Central,Alice,13,455860,212270,243590,March,12
+2026-03-16,Phones,Coast,Eve,10,341721,201659,140062,March,12
+2026-03-16,TVs,Rift Valley,Eve,5,261811,145311,116500,March,12
+2026-03-16,Laptops,Nairobi,Alice,5,385832,190231,195601,March,12
+2026-03-16,Phones,Coast,Bob,14,417851,265540,152311,March,12
+2026-03-16,Audio,Nairobi,Alice,14,141256,68517,72739,March,12
+2026-03-16,Accessories,Nairobi,Frank,2,4003,2219,1784,March,12
+2026-03-16,TVs,Rift Valley,Eve,13,790132,401439,388693,March,12
+2026-03-16,TVs,Rift Valley,Eve,14,650542,333457,317085,March,12
+2026-03-16,Laptops,Coast,Carol,14,987169,601602,385567,March,12
+2026-03-17,Laptops,Nairobi,Carol,13,1184522,604350,580172,March,12
+2026-03-17,Phones,Coast,Carol,9,260995,148902,112093,March,12
+2026-03-17,Audio,Rift Valley,Bob,4,31876,16576,15300,March,12
+2026-03-17,Audio,Western,Frank,7,62597,37615,24982,March,12
+2026-03-17,Audio,Rift Valley,Bob,13,99191,56940,42251,March,12
+2026-03-17,Phones,Western,Eve,6,217710,135465,82245,March,12
+2026-03-17,Laptops,Coast,Carol,11,737020,364723,372297,March,12
+2026-03-17,Phones,Nairobi,David,5,216482,100093,116389,March,12
+2026-03-17,Accessories,Nairobi,Eve,1,2214,1094,1120,March,12
+2026-03-17,Phones,Western,Alice,5,198569,119581,78988,March,12
+2026-03-17,Laptops,Rift Valley,Eve,6,489354,240534,248820,March,12
+2026-03-18,TVs,Western,Frank,6,355766,164685,191081,March,12
+2026-03-18,TVs,Western,David,13,656455,379718,276737,March,12
+2026-03-18,Phones,Nairobi,David,13,544951,266342,278609,March,12
+2026-03-18,TVs,Nairobi,David,3,210190,96056,114134,March,12
+2026-03-18,Phones,Nairobi,Bob,13,448227,239214,209013,March,12
+2026-03-18,Laptops,Central,Bob,9,729604,409098,320506,March,12
+2026-03-18,Audio,Central,Frank,10,85389,50774,34615,March,12
+2026-03-19,Audio,Nairobi,Frank,5,45306,28145,17161,March,12
+2026-03-19,Accessories,Nairobi,David,11,29926,15092,14834,March,12
+2026-03-19,Phones,Coast,Bob,13,414218,190864,223354,March,12
+2026-03-19,Phones,Coast,David,9,312915,153977,158938,March,12
+2026-03-19,TVs,Nairobi,Frank,9,445198,211812,233386,March,12
+2026-03-19,TVs,Rift Valley,Frank,7,339105,217960,121145,March,12
+2026-03-19,Phones,Central,Bob,1,33777,15637,18140,March,12
+2026-03-19,Phones,Coast,Bob,3,94348,48594,45754,March,12
+2026-03-19,Phones,Coast,Carol,6,154752,79975,74777,March,12
+2026-03-19,Audio,Coast,Bob,13,105794,56205,49589,March,12
+2026-03-19,Audio,Coast,Frank,6,43591,21649,21942,March,12
+2026-03-19,TVs,Coast,Frank,5,231694,144404,87290,March,12
+2026-03-20,TVs,Rift Valley,Eve,10,519845,265500,254345,March,12
+2026-03-20,Phones,Rift Valley,Eve,3,117491,67757,49734,March,12
+2026-03-20,Phones,Central,Bob,5,157871,93186,64685,March,12
+2026-03-20,Audio,Nairobi,Frank,1,9237,4918,4319,March,12
+2026-03-20,Laptops,Coast,Eve,2,141681,75447,66234,March,12
+2026-03-20,Laptops,Nairobi,Eve,8,458598,286978,171620,March,12
+2026-03-20,Laptops,Rift Valley,Frank,4,271446,147915,123531,March,12
+2026-03-20,TVs,Central,Bob,13,762672,419709,342963,March,12
+2026-03-20,Audio,Nairobi,Carol,11,88229,39846,48383,March,12
+2026-03-21,TVs,Nairobi,Carol,7,368647,190046,178601,March,12
+2026-03-21,TVs,Nairobi,Bob,11,608334,287544,320790,March,12
+2026-03-21,Laptops,Central,Alice,11,891644,423241,468403,March,12
+2026-03-21,Audio,Nairobi,David,12,95143,43528,51615,March,12
+2026-03-21,Laptops,Central,Alice,4,274432,140366,134066,March,12
+2026-03-21,TVs,Nairobi,Carol,9,496088,259781,236307,March,12
+2026-03-21,Laptops,Coast,Carol,4,348549,212730,135819,March,12
+2026-03-21,Phones,Western,Frank,5,197319,114182,83137,March,12
+2026-03-22,Phones,Coast,David,4,128674,72041,56633,March,12
+2026-03-22,Phones,Western,Frank,4,158049,76317,81732,March,12
+2026-03-22,Accessories,Coast,Carol,6,12275,7382,4893,March,12
+2026-03-22,Audio,Nairobi,Frank,14,118997,62614,56383,March,12
+2026-03-22,Accessories,Rift Valley,Bob,6,16650,8485,8165,March,12
+2026-03-22,Phones,Nairobi,Eve,9,333105,187938,145167,March,12
+2026-03-22,Audio,Nairobi,Alice,9,58272,33707,24565,March,12
+2026-03-23,Phones,Nairobi,Eve,3,106097,65491,40606,March,13
+2026-03-23,TVs,Nairobi,Frank,5,271242,173523,97719,March,13
+2026-03-23,Audio,Coast,Alice,14,131541,60489,71052,March,13
+2026-03-23,Laptops,Rift Valley,Carol,14,1135979,644476,491503,March,13
+2026-03-23,Accessories,Rift Valley,Frank,6,12605,6629,5976,March,13
+2026-03-23,Audio,Nairobi,Eve,6,47859,30884,16975,March,13
+2026-03-23,Audio,Coast,Bob,2,16256,7603,8653,March,13
+2026-03-23,Accessories,Nairobi,David,1,2715,1591,1124,March,13
+2026-03-23,Phones,Coast,David,11,381251,241259,139992,March,13
+2026-03-23,Phones,Coast,Frank,12,449559,214272,235287,March,13
+2026-03-23,Phones,Nairobi,Frank,10,375939,227404,148535,March,13
+2026-03-23,Laptops,Western,Carol,2,165943,79712,86231,March,13
+2026-03-23,TVs,Rift Valley,Carol,8,332174,169785,162389,March,13
+2026-03-23,Accessories,Rift Valley,David,8,22131,12544,9587,March,13
+2026-03-24,TVs,Western,Frank,13,588870,327885,260985,March,13
+2026-03-24,Audio,Rift Valley,David,4,36708,16633,20075,March,13
+2026-03-24,Laptops,Rift Valley,Carol,10,855864,422139,433725,March,13
+2026-03-24,Laptops,Central,Eve,13,973075,468037,505038,March,13
+2026-03-24,Laptops,Rift Valley,Alice,13,1088690,515515,573175,March,13
+2026-03-24,TVs,Coast,Carol,10,468825,246764,222061,March,13
+2026-03-24,TVs,Rift Valley,Frank,11,534909,339288,195621,March,13
+2026-03-24,Phones,Western,Alice,6,170289,91085,79204,March,13
+2026-03-24,Phones,Rift Valley,Alice,7,268282,170960,97322,March,13
+2026-03-25,TVs,Nairobi,David,7,440473,224115,216358,March,13
+2026-03-25,Laptops,Coast,Eve,12,796307,460940,335367,March,13
+2026-03-25,Laptops,Nairobi,Carol,11,773671,498124,275547,March,13
+2026-03-25,Audio,Nairobi,Carol,2,17178,7967,9211,March,13
+2026-03-25,TVs,Nairobi,Frank,12,690366,384802,305564,March,13
+2026-03-25,Audio,Nairobi,Carol,6,53721,31804,21917,March,13
+2026-03-25,Laptops,Nairobi,Frank,13,935687,454837,480850,March,13
+2026-03-25,Phones,Western,Frank,7,220286,104579,115707,March,13
+2026-03-25,Laptops,Central,Bob,8,526988,292132,234856,March,13
+2026-03-25,TVs,Coast,Carol,14,604424,284622,319802,March,13
+2026-03-25,Laptops,Nairobi,Bob,2,173757,87452,86305,March,13
+2026-03-25,Phones,Nairobi,Bob,1,30033,17118,12915,March,13
+2026-03-25,Accessories,Coast,David,8,18758,11479,7279,March,13
+2026-03-25,TVs,Western,Carol,9,377804,242822,134982,March,13
+2026-03-26,Laptops,Coast,David,3,230643,127154,103489,March,13
+2026-03-26,TVs,Coast,David,6,315765,165929,149836,March,13
+2026-03-26,Accessories,Western,Alice,13,34545,17319,17226,March,13
+2026-03-26,Laptops,Nairobi,Bob,12,988449,585667,402782,March,13
+2026-03-26,Laptops,Western,Bob,12,867123,450137,416986,March,13
+2026-03-26,TVs,Western,Alice,4,226650,145261,81389,March,13
+2026-03-26,Phones,Rift Valley,Eve,4,141039,73972,67067,March,13
+2026-03-26,Audio,Coast,Bob,1,8454,5170,3284,March,13
+2026-03-26,Laptops,Western,Bob,8,643933,389598,254335,March,13
+2026-03-26,Laptops,Nairobi,Alice,7,463968,284516,179452,March,13
+2026-03-26,Phones,Rift Valley,Bob,6,259034,165388,93646,March,13
+2026-03-26,Audio,Rift Valley,David,11,73891,40549,33342,March,13
+2026-03-27,Laptops,Nairobi,Frank,5,305300,192988,112312,March,13
+2026-03-27,Laptops,Western,David,6,500953,317645,183308,March,13
+2026-03-27,TVs,Nairobi,Eve,6,360100,203981,156119,March,13
+2026-03-27,Phones,Rift Valley,Alice,3,111913,50689,61224,March,13
+2026-03-27,Laptops,Central,Frank,6,510607,330814,179793,March,13
+2026-03-27,TVs,Nairobi,Alice,10,461595,281370,180225,March,13
+2026-03-27,Accessories,Coast,David,7,14918,6794,8124,March,13
+2026-03-27,Phones,Rift Valley,Alice,2,67848,41873,25975,March,13
+2026-03-27,Phones,Western,Eve,13,450034,221081,228953,March,13
+2026-03-27,TVs,Nairobi,Bob,14,668564,388148,280416,March,13
+2026-03-27,Accessories,Western,Alice,14,37305,23862,13443,March,13
+2026-03-28,TVs,Western,Frank,9,465831,273035,192796,March,13
+2026-03-28,Audio,Western,Alice,1,7900,5039,2861,March,13
+2026-03-28,Laptops,Nairobi,Alice,8,689864,400400,289464,March,13
+2026-03-28,Audio,Rift Valley,Alice,11,76551,36907,39644,March,13
+2026-03-28,Phones,Nairobi,David,7,193664,106497,87167,March,13
+2026-03-28,Phones,Nairobi,Alice,5,194644,89948,104696,March,13
+2026-03-29,Accessories,Western,Bob,9,22240,11277,10963,March,13
+2026-03-29,TVs,Nairobi,Frank,4,180141,112566,67575,March,13
+2026-03-29,Laptops,Rift Valley,Carol,2,155460,100706,54754,March,13
+2026-03-29,Laptops,Central,David,2,166155,81373,84782,March,13
+2026-03-29,Laptops,Western,Alice,12,873288,461854,411434,March,13
+2026-03-29,TVs,Rift Valley,Carol,3,154817,80092,74725,March,13
+2026-03-29,Phones,Nairobi,Eve,8,253770,147941,105829,March,13
+2026-03-29,Phones,Nairobi,Eve,8,273062,155708,117354,March,13
+2026-03-29,TVs,Rift Valley,Carol,1,43591,25432,18159,March,13
+2026-03-30,Accessories,Coast,Frank,2,5040,3248,1792,March,14
+2026-03-30,Laptops,Rift Valley,Alice,4,271411,126645,144766,March,14
+2026-03-30,Phones,Rift Valley,Carol,13,536093,252688,283405,March,14
+2026-03-30,Laptops,Nairobi,Alice,1,64052,41346,22706,March,14
+2026-03-30,Accessories,Rift Valley,Bob,13,23060,10638,12422,March,14
+2026-03-30,Phones,Rift Valley,Bob,1,42818,24540,18278,March,14
+2026-03-30,Laptops,Nairobi,Frank,8,629097,346319,282778,March,14
+2026-03-30,Phones,Rift Valley,Alice,8,280548,145364,135184,March,14
+2026-03-31,Phones,Nairobi,David,11,353696,225733,127963,March,14
+2026-03-31,TVs,Rift Valley,Alice,7,382308,204959,177349,March,14
+2026-03-31,TVs,Coast,Carol,8,463002,222443,240559,March,14
+2026-03-31,Audio,Rift Valley,Bob,13,110230,70057,40173,March,14
+2026-03-31,Phones,Nairobi,Carol,6,243188,148815,94373,March,14
+2026-03-31,Accessories,Rift Valley,Eve,4,9469,5473,3996,March,14
+2026-03-31,Phones,Western,Carol,14,525516,308581,216935,March,14
+2026-03-31,Laptops,Rift Valley,Frank,8,517938,262662,255276,March,14
+2026-03-31,Audio,Coast,Bob,8,67360,43723,23637,March,14
+2026-03-31,Phones,Western,Eve,1,32747,19046,13701,March,14
+2026-03-31,Laptops,Coast,Alice,11,993433,596944,396489,March,14
+2026-03-31,Phones,Western,Eve,8,320823,190477,130346,March,14
+2026-03-31,TVs,Nairobi,Carol,6,328155,203383,124772,March,14
+2026-03-31,Laptops,Coast,Eve,14,1145206,517096,628110,March,14
+2026-04-01,TVs,Central,Bob,14,680717,370454,310263,April,14
+2026-04-01,Phones,Rift Valley,Alice,1,32301,15550,16751,April,14
+2026-04-01,Phones,Rift Valley,Eve,12,459777,297138,162639,April,14
+2026-04-01,Phones,Rift Valley,David,4,125893,77021,48872,April,14
+2026-04-01,Laptops,Rift Valley,Eve,6,518223,293561,224662,April,14
+2026-04-01,Laptops,Central,Carol,13,953868,455114,498754,April,14
+2026-04-01,Accessories,Coast,Eve,7,19158,12054,7104,April,14
+2026-04-01,Laptops,Coast,Eve,5,353856,205087,148769,April,14
+2026-04-02,TVs,Coast,Bob,3,190343,92131,98212,April,14
+2026-04-02,Accessories,Rift Valley,Bob,8,19305,9014,10291,April,14
+2026-04-02,TVs,Nairobi,Bob,6,370440,196255,174185,April,14
+2026-04-02,TVs,Coast,David,2,93987,45203,48784,April,14
+2026-04-02,TVs,Central,Alice,9,430054,264419,165635,April,14
+2026-04-02,Laptops,Western,Eve,14,901404,514848,386556,April,14
+2026-04-02,Accessories,Coast,Frank,11,30704,17350,13354,April,14
+2026-04-02,Phones,Nairobi,David,13,463176,291298,171878,April,14
+2026-04-03,TVs,Rift Valley,Frank,10,424830,192274,232556,April,14
+2026-04-03,TVs,Coast,David,3,151005,77093,73912,April,14
+2026-04-03,Phones,Rift Valley,Carol,12,459794,262507,197287,April,14
+2026-04-03,Laptops,Central,David,9,547902,348675,199227,April,14
+2026-04-03,TVs,Nairobi,Frank,8,435411,262917,172494,April,14
+2026-04-03,Audio,Nairobi,David,8,57105,30505,26600,April,14
+2026-04-03,Laptops,Rift Valley,Eve,9,601861,383801,218060,April,14
+2026-04-03,TVs,Western,Frank,3,128628,76499,52129,April,14
+2026-04-04,Phones,Nairobi,Frank,4,159026,93584,65442,April,14
+2026-04-04,TVs,Nairobi,Eve,12,746877,482715,264162,April,14
+2026-04-04,Phones,Coast,David,11,319769,189533,130236,April,14
+2026-04-04,TVs,Rift Valley,Alice,5,286154,169718,116436,April,14
+2026-04-04,Laptops,Nairobi,Frank,9,677582,305378,372204,April,14
+2026-04-04,Laptops,Nairobi,Bob,2,109572,58189,51383,April,14
+2026-04-04,Phones,Rift Valley,Bob,4,132717,85144,47573,April,14
+2026-04-04,Phones,Nairobi,Bob,4,169169,107143,62026,April,14
+2026-04-04,Laptops,Coast,Bob,9,688543,446984,241559,April,14
+2026-04-04,Laptops,Rift Valley,David,14,1085989,658991,426998,April,14
+2026-04-04,Phones,Nairobi,Frank,6,166852,104876,61976,April,14
+2026-04-04,Phones,Nairobi,Bob,4,128479,72196,56283,April,14
+2026-04-04,Accessories,Nairobi,Bob,6,15861,7920,7941,April,14
+2026-04-04,Phones,Nairobi,Alice,8,212674,113289,99385,April,14
+2026-04-04,Laptops,Coast,David,10,684918,315414,369504,April,14
+2026-04-05,Accessories,Western,David,3,7832,4393,3439,April,14
+2026-04-05,Laptops,Western,Eve,8,660659,317985,342674,April,14
+2026-04-05,Laptops,Rift Valley,Frank,7,377060,178558,198502,April,14
+2026-04-05,Accessories,Nairobi,Alice,4,11975,6172,5803,April,14
+2026-04-05,TVs,Nairobi,Alice,2,117639,55668,61971,April,14
+2026-04-05,TVs,Nairobi,David,13,724123,341630,382493,April,14
+2026-04-05,Accessories,Nairobi,Alice,4,10608,6704,3904,April,14
+2026-04-05,Phones,Rift Valley,Eve,5,209480,99353,110127,April,14
+2026-04-05,Audio,Rift Valley,Carol,13,101504,56635,44869,April,14
+2026-04-05,TVs,Western,Frank,6,320056,170604,149452,April,14
+2026-04-06,Laptops,Nairobi,David,1,78755,45695,33060,April,15
+2026-04-06,Laptops,Nairobi,Alice,8,577900,349543,228357,April,15
+2026-04-06,TVs,Western,Bob,6,377315,208062,169253,April,15
+2026-04-06,Laptops,Nairobi,David,1,74818,46303,28515,April,15
+2026-04-06,Audio,Western,Carol,5,42088,23627,18461,April,15
+2026-04-06,Phones,Rift Valley,David,11,490458,234801,255657,April,15
+2026-04-06,Phones,Rift Valley,Eve,4,134726,81076,53650,April,15
+2026-04-06,TVs,Nairobi,Frank,10,483382,271658,211724,April,15
+2026-04-06,Phones,Rift Valley,Bob,5,192605,91189,101416,April,15
+2026-04-07,Audio,Nairobi,Eve,2,16817,10641,6176,April,15
+2026-04-07,Laptops,Central,Alice,8,520439,312203,208236,April,15
+2026-04-07,Phones,Coast,David,13,519870,267371,252499,April,15
+2026-04-07,Phones,Rift Valley,Alice,14,416607,240036,176571,April,15
+2026-04-07,TVs,Central,Bob,9,411971,235573,176398,April,15
+2026-04-07,Laptops,Western,Alice,7,580896,324331,256565,April,15
+2026-04-07,Phones,Rift Valley,Carol,5,145950,68038,77912,April,15
+2026-04-07,Phones,Rift Valley,Eve,13,500836,276118,224718,April,15
+2026-04-07,Phones,Rift Valley,Frank,4,152857,86627,66230,April,15
+2026-04-07,Phones,Western,David,10,340351,180354,159997,April,15
+2026-04-07,Laptops,Rift Valley,Alice,4,297040,153102,143938,April,15
+2026-04-08,TVs,Nairobi,Eve,3,175831,82797,93034,April,15
+2026-04-08,Laptops,Western,David,10,617696,332467,285229,April,15
+2026-04-08,TVs,Central,David,12,705541,355730,349811,April,15
+2026-04-08,TVs,Coast,David,4,254226,140641,113585,April,15
+2026-04-08,Laptops,Nairobi,Bob,2,142190,79941,62249,April,15
+2026-04-08,TVs,Rift Valley,Eve,4,228940,122987,105953,April,15
+2026-04-09,Phones,Central,Carol,9,337542,195170,142372,April,15
+2026-04-09,Audio,Nairobi,Alice,7,55649,25964,29685,April,15
+2026-04-09,Accessories,Western,Frank,1,2785,1447,1338,April,15
+2026-04-09,Phones,Nairobi,David,8,227681,114875,112806,April,15
+2026-04-09,Audio,Nairobi,David,9,73317,45151,28166,April,15
+2026-04-09,Phones,Rift Valley,Bob,10,301465,194643,106822,April,15
+2026-04-09,Phones,Nairobi,Frank,8,272318,153214,119104,April,15
+2026-04-09,TVs,Nairobi,Eve,7,486467,295547,190920,April,15
+2026-04-09,Laptops,Central,Alice,2,148123,68839,79284,April,15
+2026-04-09,Phones,Rift Valley,Eve,13,533978,297273,236705,April,15
+2026-04-09,Laptops,Nairobi,Carol,10,861745,424846,436899,April,15
+2026-04-10,TVs,Nairobi,Carol,5,228310,116637,111673,April,15
+2026-04-10,Laptops,Central,Alice,3,233315,127569,105746,April,15
+2026-04-10,Laptops,Western,Eve,13,975304,560634,414670,April,15
+2026-04-10,Phones,Nairobi,Alice,14,518350,282714,235636,April,15
+2026-04-10,Laptops,Nairobi,Carol,12,872710,445805,426905,April,15
+2026-04-10,Audio,Western,Alice,1,6751,4256,2495,April,15
+2026-04-10,Phones,Rift Valley,Eve,9,266523,123330,143193,April,15
+2026-04-10,Audio,Central,Carol,3,20870,11084,9786,April,15
+2026-04-10,TVs,Nairobi,Carol,1,54773,24813,29960,April,15
+2026-04-11,Laptops,Coast,Eve,4,284159,150965,133194,April,15
+2026-04-11,TVs,Central,Carol,5,297229,135421,161808,April,15
+2026-04-11,Laptops,Nairobi,David,8,665175,416495,248680,April,15
+2026-04-11,Accessories,Coast,Carol,5,11387,6243,5144,April,15
+2026-04-11,Laptops,Nairobi,David,12,847519,468386,379133,April,15
+2026-04-11,Laptops,Coast,Alice,5,387003,242194,144809,April,15
+2026-04-11,Laptops,Central,Bob,7,473018,253985,219033,April,15
+2026-04-11,Audio,Rift Valley,Frank,3,26639,16056,10583,April,15
+2026-04-11,Phones,Coast,David,10,327468,187348,140120,April,15
+2026-04-11,Laptops,Nairobi,Carol,2,162405,90294,72111,April,15
+2026-04-11,Laptops,Rift Valley,David,13,1187171,602758,584413,April,15
+2026-04-11,Accessories,Coast,Bob,2,4830,2441,2389,April,15
+2026-04-11,Audio,Rift Valley,Carol,10,84964,50036,34928,April,15
+2026-04-11,Phones,Central,Alice,14,526671,312948,213723,April,15
+2026-04-12,Laptops,Nairobi,Eve,6,400011,213162,186849,April,15
+2026-04-12,Laptops,Central,Alice,6,293486,158249,135237,April,15
+2026-04-12,Phones,Western,Carol,12,343718,174340,169378,April,15
+2026-04-12,Phones,Rift Valley,David,1,39291,19497,19794,April,15
+2026-04-12,Laptops,Central,Frank,7,532012,310330,221682,April,15
+2026-04-12,TVs,Nairobi,Eve,2,99649,62520,37129,April,15
+2026-04-12,Phones,Nairobi,David,13,363377,223857,139520,April,15
+2026-04-12,Accessories,Western,Carol,9,21973,10526,11447,April,15
+2026-04-12,TVs,Nairobi,Bob,4,223548,108462,115086,April,15
+2026-04-12,Phones,Rift Valley,Carol,9,301481,154860,146621,April,15
+2026-04-13,Laptops,Coast,David,4,326392,194913,131479,April,16
+2026-04-13,Accessories,Nairobi,Carol,12,29597,17408,12189,April,16
+2026-04-13,Phones,Central,Alice,10,346360,161415,184945,April,16
+2026-04-13,TVs,Coast,David,9,490749,316647,174102,April,16
+2026-04-14,Phones,Nairobi,Bob,8,319944,151350,168594,April,16
+2026-04-14,Phones,Western,Bob,3,125810,71184,54626,April,16
+2026-04-14,TVs,Central,David,8,380456,203759,176697,April,16
+2026-04-14,Phones,Nairobi,David,14,511867,275673,236194,April,16
+2026-04-14,Phones,Nairobi,Bob,1,27245,12646,14599,April,16
+2026-04-14,Accessories,Coast,Alice,6,14258,9231,5027,April,16
+2026-04-14,Laptops,Coast,Carol,2,163314,98861,64453,April,16
+2026-04-14,Phones,Western,Eve,2,59884,36000,23884,April,16
+2026-04-14,Laptops,Coast,Alice,13,1064968,654017,410951,April,16
+2026-04-14,Accessories,Western,Carol,1,2556,1309,1247,April,16
+2026-04-14,Laptops,Western,Bob,14,1063091,659772,403319,April,16
+2026-04-14,Laptops,Central,Frank,10,837227,432286,404941,April,16
+2026-04-15,Laptops,Rift Valley,Frank,12,1039635,535785,503850,April,16
+2026-04-15,Phones,Central,Eve,7,245878,140099,105779,April,16
+2026-04-15,Audio,Rift Valley,Bob,9,82707,51740,30967,April,16
+2026-04-15,Laptops,Western,Carol,8,530428,281196,249232,April,16
+2026-04-15,TVs,Western,Frank,2,107879,55638,52241,April,16
+2026-04-15,Audio,Nairobi,Eve,12,100864,57825,43039,April,16
+2026-04-15,Phones,Nairobi,Eve,9,329476,179074,150402,April,16
+2026-04-15,Accessories,Nairobi,Eve,10,29335,13241,16094,April,16
+2026-04-15,TVs,Nairobi,Alice,11,585916,360549,225367,April,16
+2026-04-15,Laptops,Central,Eve,6,517962,265410,252552,April,16
+2026-04-15,TVs,Rift Valley,Eve,2,98508,44545,53963,April,16
+2026-04-15,Phones,Coast,Carol,11,299324,157780,141544,April,16
+2026-04-16,Audio,Nairobi,Frank,11,76111,38477,37634,April,16
+2026-04-16,Phones,Rift Valley,Frank,5,159902,95808,64094,April,16
+2026-04-16,Phones,Coast,Frank,14,502042,295924,206118,April,16
+2026-04-16,Phones,Nairobi,David,6,217466,123789,93677,April,16
+2026-04-16,Phones,Coast,Bob,14,387645,225639,162006,April,16
+2026-04-16,Phones,Nairobi,Eve,12,403802,201600,202202,April,16
+2026-04-16,TVs,Coast,Carol,6,335670,156373,179297,April,16
+2026-04-16,Accessories,Coast,Carol,6,17729,10766,6963,April,16
+2026-04-16,TVs,Rift Valley,Carol,8,507052,287158,219894,April,16
+2026-04-16,Laptops,Coast,Carol,11,734970,369797,365173,April,16
+2026-04-16,Phones,Nairobi,Carol,1,36837,19797,17040,April,16
+2026-04-16,Laptops,Coast,Bob,11,882848,573579,309269,April,16
+2026-04-16,TVs,Nairobi,Alice,8,447610,259088,188522,April,16
+2026-04-16,TVs,Western,Alice,14,755068,425807,329261,April,16
+2026-04-17,Laptops,Coast,Alice,13,938724,428345,510379,April,16
+2026-04-17,Laptops,Nairobi,Eve,5,372423,235487,136936,April,16
+2026-04-17,Laptops,Rift Valley,Carol,4,277669,132961,144708,April,16
+2026-04-17,Phones,Nairobi,Eve,4,161705,73554,88151,April,16
+2026-04-17,Laptops,Nairobi,Alice,11,557724,272442,285282,April,16
+2026-04-17,Phones,Central,Bob,5,188471,91757,96714,April,16
+2026-04-17,TVs,Nairobi,Carol,14,709658,395119,314539,April,16
+2026-04-17,Phones,Coast,Bob,10,310853,141094,169759,April,16
+2026-04-17,TVs,Central,Bob,5,270280,160732,109548,April,16
+2026-04-17,Phones,Nairobi,Frank,9,321345,194636,126709,April,16
+2026-04-18,Phones,Nairobi,Frank,8,338390,204200,134190,April,16
+2026-04-18,TVs,Coast,Frank,11,625242,316551,308691,April,16
+2026-04-18,Phones,Coast,David,12,452206,270351,181855,April,16
+2026-04-18,TVs,Rift Valley,Eve,13,689953,345432,344521,April,16
+2026-04-18,Laptops,Nairobi,Bob,12,999558,603723,395835,April,16
+2026-04-18,TVs,Nairobi,Bob,7,390779,246460,144319,April,16
+2026-04-18,Phones,Nairobi,David,14,479425,240344,239081,April,16
+2026-04-18,Phones,Western,Eve,2,73656,36636,37020,April,16
+2026-04-18,Phones,Western,Carol,3,107197,65512,41685,April,16
+2026-04-19,TVs,Western,David,3,178531,81724,96807,April,16
+2026-04-19,Phones,Coast,Alice,8,296463,168152,128311,April,16
+2026-04-19,TVs,Nairobi,Carol,6,347941,226070,121871,April,16
+2026-04-19,Phones,Central,Carol,10,341235,167093,174142,April,16
+2026-04-19,TVs,Coast,David,12,738618,475085,263533,April,16
+2026-04-19,Audio,Rift Valley,Frank,6,43353,28017,15336,April,16
+2026-04-19,TVs,Nairobi,Eve,11,590431,304809,285622,April,16
+2026-04-19,Laptops,Nairobi,David,9,753688,399457,354231,April,16
+2026-04-19,Phones,Coast,David,10,308613,175429,133184,April,16
+2026-04-19,Audio,Nairobi,Alice,8,61553,28441,33112,April,16
+2026-04-19,Accessories,Nairobi,Carol,7,21540,12593,8947,April,16
+2026-04-19,Phones,Coast,Eve,7,241869,132196,109673,April,16
+2026-04-19,Laptops,Coast,Eve,9,579785,353143,226642,April,16
+2026-04-19,TVs,Coast,Carol,9,440700,268539,172161,April,16
+2026-04-20,Laptops,Rift Valley,Frank,14,1002346,628393,373953,April,17
+2026-04-20,Accessories,Western,Bob,2,6401,4141,2260,April,17
+2026-04-20,Phones,Coast,Frank,6,232749,150300,82449,April,17
+2026-04-20,Audio,Central,David,8,68026,35103,32923,April,17
+2026-04-20,Accessories,Coast,Frank,2,5240,2656,2584,April,17
+2026-04-20,TVs,Coast,Eve,14,866749,466952,399797,April,17
+2026-04-20,TVs,Rift Valley,Carol,12,658662,376468,282194,April,17
+2026-04-20,Laptops,Rift Valley,David,5,373375,241490,131885,April,17
+2026-04-20,Laptops,Central,Carol,1,85327,48740,36587,April,17
+2026-04-20,Accessories,Nairobi,David,9,24584,14933,9651,April,17
+2026-04-20,Laptops,Nairobi,David,3,234495,150982,83513,April,17
+2026-04-20,Accessories,Coast,Bob,4,9931,5693,4238,April,17
+2026-04-20,Phones,Nairobi,Alice,2,70038,44778,25260,April,17
+2026-04-20,TVs,Rift Valley,David,9,497250,250500,246750,April,17
+2026-04-20,TVs,Nairobi,David,5,242935,153524,89411,April,17
+2026-04-20,Phones,Nairobi,Frank,6,212465,118817,93648,April,17
+2026-04-20,Phones,Rift Valley,Bob,6,162847,89626,73221,April,17
+2026-04-20,Accessories,Nairobi,David,3,7558,4079,3479,April,17
+2026-04-21,TVs,Rift Valley,Bob,13,745459,406753,338706,April,17
+2026-04-21,TVs,Rift Valley,Carol,4,222807,105992,116815,April,17
+2026-04-21,TVs,Central,David,13,885757,445558,440199,April,17
+2026-04-21,Laptops,Rift Valley,Bob,10,746976,415380,331596,April,17
+2026-04-21,Phones,Coast,Eve,5,212709,131617,81092,April,17
+2026-04-21,Laptops,Nairobi,Eve,5,391637,218492,173145,April,17
+2026-04-21,Accessories,Rift Valley,Alice,9,25859,12520,13339,April,17
+2026-04-21,Audio,Central,Alice,11,97218,57179,40039,April,17
+2026-04-21,Phones,Nairobi,David,3,108732,67553,41179,April,17
+2026-04-21,Accessories,Rift Valley,Bob,3,8219,4884,3335,April,17
+2026-04-22,Laptops,Western,Frank,3,238235,122237,115998,April,17
+2026-04-22,TVs,Nairobi,Bob,5,269382,125949,143433,April,17
+2026-04-22,TVs,Nairobi,Eve,10,506019,259544,246475,April,17
+2026-04-22,Laptops,Rift Valley,David,2,142569,84596,57973,April,17
+2026-04-22,Phones,Rift Valley,Alice,3,86289,49377,36912,April,17
+2026-04-22,Accessories,Nairobi,Alice,3,9866,4831,5035,April,17
+2026-04-22,Phones,Central,Carol,12,373463,175529,197934,April,17
+2026-04-22,Phones,Nairobi,Alice,8,258382,137924,120458,April,17
+2026-04-23,Audio,Rift Valley,Eve,2,15852,9696,6156,April,17
+2026-04-23,Laptops,Nairobi,David,2,167773,101608,66165,April,17
+2026-04-23,Laptops,Nairobi,David,10,626951,366655,260296,April,17
+2026-04-23,Laptops,Coast,Bob,13,947112,537031,410081,April,17
+2026-04-23,Laptops,Rift Valley,Eve,4,263502,135367,128135,April,17
+2026-04-23,Accessories,Nairobi,Frank,5,10486,5185,5301,April,17
+2026-04-23,Phones,Rift Valley,Frank,13,519894,307538,212356,April,17
+2026-04-23,Phones,Nairobi,Frank,5,145297,71477,73820,April,17
+2026-04-23,Laptops,Rift Valley,Bob,6,442600,215675,226925,April,17
+2026-04-23,Laptops,Rift Valley,David,5,363458,216677,146781,April,17
+2026-04-24,Laptops,Rift Valley,Eve,2,148094,93972,54122,April,17
+2026-04-24,Phones,Nairobi,David,11,440742,275692,165050,April,17
+2026-04-24,Laptops,Western,Frank,12,746510,376880,369630,April,17
+2026-04-24,Audio,Coast,Eve,7,62054,39891,22163,April,17
+2026-04-24,Phones,Nairobi,Eve,7,242934,111644,131290,April,17
+2026-04-25,TVs,Rift Valley,Alice,4,222011,111304,110707,April,17
+2026-04-25,Laptops,Nairobi,Alice,6,392324,225419,166905,April,17
+2026-04-25,Laptops,Western,Bob,12,1033765,652460,381305,April,17
+2026-04-25,TVs,Nairobi,Frank,10,673297,423789,249508,April,17
+2026-04-25,Phones,Coast,Frank,7,254900,125593,129307,April,17
+2026-04-25,Phones,Central,Frank,5,200698,102235,98463,April,17
+2026-04-25,Audio,Coast,Carol,9,73368,38214,35154,April,17
+2026-04-26,TVs,Western,Bob,3,183293,106495,76798,April,17
+2026-04-26,Accessories,Rift Valley,Carol,5,14417,8681,5736,April,17
+2026-04-26,Audio,Coast,Eve,3,23804,14018,9786,April,17
+2026-04-26,Laptops,Coast,Carol,14,1166857,648133,518724,April,17
+2026-04-26,Accessories,Nairobi,Bob,5,12003,7224,4779,April,17
+2026-04-26,Phones,Nairobi,David,3,116418,63309,53109,April,17
+2026-04-26,Laptops,Nairobi,Alice,3,252922,132565,120357,April,17
+2026-04-26,Accessories,Nairobi,Frank,3,5878,3612,2266,April,17
+2026-04-26,Laptops,Rift Valley,David,5,438086,245706,192380,April,17
+2026-04-26,Phones,Rift Valley,Alice,14,404982,223412,181570,April,17
+2026-04-26,Laptops,Rift Valley,Frank,6,442890,260847,182043,April,17
+2026-04-27,Phones,Nairobi,Frank,14,529942,308880,221062,April,18
+2026-04-27,Laptops,Nairobi,Carol,5,328447,195641,132806,April,18
+2026-04-27,Phones,Rift Valley,Carol,2,67797,42022,25775,April,18
+2026-04-27,Phones,Rift Valley,Carol,2,81343,41871,39472,April,18
+2026-04-27,Accessories,Rift Valley,Frank,14,37243,23478,13765,April,18
+2026-04-27,Laptops,Nairobi,Frank,2,154707,81831,72876,April,18
+2026-04-27,TVs,Western,Carol,6,350560,224306,126254,April,18
+2026-04-27,TVs,Coast,Alice,4,216566,113093,103473,April,18
+2026-04-27,Accessories,Western,Carol,11,24033,14766,9267,April,18
+2026-04-28,TVs,Coast,David,8,378836,176706,202130,April,18
+2026-04-28,TVs,Nairobi,Alice,9,462840,279392,183448,April,18
+2026-04-28,Phones,Coast,Frank,10,390232,195111,195121,April,18
+2026-04-28,Laptops,Coast,Eve,12,865432,517880,347552,April,18
+2026-04-28,TVs,Coast,David,9,537679,281028,256651,April,18
+2026-04-28,Laptops,Rift Valley,Carol,1,79871,41470,38401,April,18
+2026-04-28,Laptops,Central,David,2,155429,86172,69257,April,18
+2026-04-28,Audio,Coast,David,8,57460,28415,29045,April,18
+2026-04-28,Accessories,Western,Alice,11,31891,17828,14063,April,18
+2026-04-29,Phones,Western,Carol,13,420902,269247,151655,April,18
+2026-04-29,TVs,Rift Valley,Eve,13,738116,379724,358392,April,18
+2026-04-29,Phones,Nairobi,Eve,6,178959,113779,65180,April,18
+2026-04-29,Accessories,Nairobi,Frank,13,35690,16805,18885,April,18
+2026-04-29,Laptops,Nairobi,Carol,13,733893,466517,267376,April,18
+2026-04-29,Phones,Western,Carol,9,300133,175367,124766,April,18
+2026-04-29,TVs,Western,Bob,10,714660,394182,320478,April,18
+2026-04-29,Phones,Nairobi,Bob,11,369670,221789,147881,April,18
+2026-04-29,Laptops,Rift Valley,Bob,7,536909,283927,252982,April,18
+2026-04-29,Phones,Central,Carol,10,380469,238980,141489,April,18
+2026-04-29,Audio,Nairobi,Alice,5,40579,19459,21120,April,18
+2026-04-29,Accessories,Western,Alice,1,2693,1428,1265,April,18
+2026-04-30,Accessories,Western,Eve,8,18346,11773,6573,April,18
+2026-04-30,TVs,Nairobi,Carol,7,329270,155059,174211,April,18
+2026-04-30,TVs,Nairobi,Carol,7,367202,187377,179825,April,18
+2026-04-30,Phones,Central,David,8,276161,166336,109825,April,18
+2026-04-30,Laptops,Nairobi,Bob,4,272313,167784,104529,April,18
+2026-04-30,Laptops,Coast,Eve,10,702205,323070,379135,April,18
+2026-04-30,Audio,Central,David,8,55779,33880,21899,April,18
+2026-04-30,Phones,Western,David,10,324889,161985,162904,April,18
+2026-04-30,Phones,Coast,Alice,4,162946,76870,86076,April,18
+2026-04-30,Phones,Nairobi,Carol,4,155089,91748,63341,April,18
+2026-04-30,Laptops,Nairobi,Alice,12,878822,497320,381502,April,18
+2026-05-01,Laptops,Rift Valley,Bob,5,364561,167102,197459,May,18
+2026-05-01,Phones,Nairobi,David,10,445960,260618,185342,May,18
+2026-05-01,Audio,Nairobi,Alice,4,30966,17604,13362,May,18
+2026-05-01,Phones,Nairobi,Carol,8,251754,136013,115741,May,18
+2026-05-01,Phones,Nairobi,Frank,5,231703,139455,92248,May,18
+2026-05-01,TVs,Nairobi,Frank,14,584760,312308,272452,May,18
+2026-05-01,Accessories,Rift Valley,Carol,14,35923,22493,13430,May,18
+2026-05-01,TVs,Nairobi,Frank,9,466075,264146,201929,May,18
+2026-05-02,Laptops,Rift Valley,David,3,244726,135004,109722,May,18
+2026-05-02,Phones,Western,Bob,9,287162,132688,154474,May,18
+2026-05-02,TVs,Central,Bob,8,506466,236598,269868,May,18
+2026-05-02,Phones,Coast,Eve,6,217344,135948,81396,May,18
+2026-05-02,Accessories,Rift Valley,David,4,10410,5749,4661,May,18
+2026-05-02,Laptops,Coast,Bob,4,306823,149374,157449,May,18
+2026-05-02,TVs,Coast,David,14,894082,501672,392410,May,18
+2026-05-02,Phones,Nairobi,Bob,1,37890,22159,15731,May,18
+2026-05-02,Laptops,Coast,Bob,7,539696,276858,262838,May,18
+2026-05-03,Phones,Nairobi,Alice,6,233549,125640,107909,May,18
+2026-05-03,Laptops,Nairobi,Frank,7,425803,250619,175184,May,18
+2026-05-03,Laptops,Western,Alice,11,985087,501088,483999,May,18
+2026-05-03,Audio,Western,Eve,9,79949,47493,32456,May,18
+2026-05-03,Accessories,Central,Bob,8,15918,8490,7428,May,18
+2026-05-03,Laptops,Nairobi,Eve,9,705110,427358,277752,May,18
+2026-05-03,TVs,Rift Valley,David,7,384934,184874,200060,May,18
+2026-05-03,Phones,Nairobi,David,10,368140,194941,173199,May,18
+2026-05-03,TVs,Western,Carol,13,774362,433776,340586,May,18
+2026-05-03,Phones,Coast,Frank,9,216071,127301,88770,May,18
+2026-05-04,Laptops,Nairobi,David,6,378783,178583,200200,May,19
+2026-05-04,TVs,Nairobi,Bob,9,563206,296063,267143,May,19
+2026-05-04,Laptops,Western,Alice,9,722516,430447,292069,May,19
+2026-05-04,Phones,Coast,Carol,9,326368,162649,163719,May,19
+2026-05-04,Laptops,Central,Bob,9,616141,300738,315403,May,19
+2026-05-04,Phones,Western,Carol,9,345762,217274,128488,May,19
+2026-05-04,TVs,Nairobi,Frank,14,851268,508287,342981,May,19
+2026-05-05,TVs,Nairobi,Eve,2,115188,62804,52384,May,19
+2026-05-05,Phones,Rift Valley,David,14,536432,341094,195338,May,19
+2026-05-05,Phones,Nairobi,David,1,39054,22457,16597,May,19
+2026-05-05,Phones,Coast,Carol,3,117233,62130,55103,May,19
+2026-05-05,Audio,Central,Bob,6,53241,29650,23591,May,19
+2026-05-05,Phones,Central,Eve,13,473803,286619,187184,May,19
+2026-05-05,Phones,Rift Valley,Eve,3,96366,54444,41922,May,19
+2026-05-05,TVs,Nairobi,Bob,12,633575,375917,257658,May,19
+2026-05-05,Phones,Central,Bob,3,96739,62360,34379,May,19
+2026-05-05,Laptops,Coast,David,11,754056,447362,306694,May,19
+2026-05-05,Laptops,Coast,Eve,11,904936,583655,321281,May,19
+2026-05-06,Phones,Central,Alice,5,177899,84482,93417,May,19
+2026-05-06,Laptops,Western,Bob,8,454821,249461,205360,May,19
+2026-05-06,TVs,Central,Carol,11,558927,318103,240824,May,19
+2026-05-06,Laptops,Rift Valley,David,8,605546,288485,317061,May,19
+2026-05-06,Phones,Western,Alice,11,305346,164973,140373,May,19
+2026-05-06,Phones,Nairobi,Eve,4,145145,66481,78664,May,19
+2026-05-06,Audio,Rift Valley,Eve,9,86879,53450,33429,May,19
+2026-05-07,Audio,Nairobi,Alice,3,27556,15932,11624,May,19
+2026-05-07,TVs,Coast,Bob,2,119017,55689,63328,May,19
+2026-05-07,Phones,Coast,Carol,12,412700,208657,204043,May,19
+2026-05-07,Phones,Coast,Bob,6,211474,120611,90863,May,19
+2026-05-07,Phones,Central,Eve,12,462290,259463,202827,May,19
+2026-05-07,Phones,Rift Valley,Alice,3,113666,62172,51494,May,19
+2026-05-07,TVs,Rift Valley,Carol,11,563828,341786,222042,May,19
+2026-05-07,Phones,Rift Valley,Carol,14,469299,244883,224416,May,19
+2026-05-07,Phones,Nairobi,Frank,9,292968,158013,134955,May,19
+2026-05-07,TVs,Western,David,14,787057,377261,409796,May,19
+2026-05-07,Phones,Western,Carol,12,387645,231778,155867,May,19
+2026-05-08,Accessories,Coast,Eve,9,19238,11347,7891,May,19
+2026-05-08,Audio,Rift Valley,Eve,8,68174,43837,24337,May,19
+2026-05-08,Accessories,Central,Bob,1,2711,1265,1446,May,19
+2026-05-08,Accessories,Nairobi,Carol,11,25417,13158,12259,May,19
+2026-05-08,Phones,Western,Bob,13,447757,226730,221027,May,19
+2026-05-08,Laptops,Nairobi,Alice,14,888971,510189,378782,May,19
+2026-05-08,Phones,Coast,Bob,2,71417,38512,32905,May,19
+2026-05-08,Laptops,Nairobi,Alice,10,913849,503125,410724,May,19
+2026-05-09,Phones,Western,Eve,8,260855,159446,101409,May,19
+2026-05-09,Audio,Western,Frank,13,99313,47571,51742,May,19
+2026-05-09,Phones,Rift Valley,Eve,6,206264,105775,100489,May,19
+2026-05-09,TVs,Central,Carol,2,91785,42372,49413,May,19
+2026-05-09,Laptops,Nairobi,Bob,6,493284,244976,248308,May,19
+2026-05-09,TVs,Central,Alice,12,699322,348089,351233,May,19
+2026-05-09,TVs,Rift Valley,Carol,14,772139,386140,385999,May,19
+2026-05-09,Accessories,Nairobi,Eve,5,13544,7293,6251,May,19
+2026-05-10,TVs,Rift Valley,Carol,9,520281,320712,199569,May,19
+2026-05-10,TVs,Coast,Alice,8,413670,267893,145777,May,19
+2026-05-10,TVs,Rift Valley,Bob,6,265571,135601,129970,May,19
+2026-05-10,Audio,Rift Valley,Carol,10,80798,50829,29969,May,19
+2026-05-10,Phones,Coast,David,14,449111,214774,234337,May,19
+2026-05-10,Phones,Nairobi,Bob,5,179141,116204,62937,May,19
+2026-05-10,Laptops,Nairobi,Carol,3,207897,112430,95467,May,19
+2026-05-10,Phones,Nairobi,Eve,13,457294,218846,238448,May,19
+2026-05-10,Laptops,Rift Valley,Eve,2,154345,80084,74261,May,19
+2026-05-10,Phones,Coast,Alice,7,207666,131586,76080,May,19
+2026-05-11,Laptops,Western,Bob,5,354484,198295,156189,May,20
+2026-05-11,Audio,Nairobi,Bob,1,8081,3833,4248,May,20
+2026-05-11,Audio,Western,David,13,67905,32726,35179,May,20
+2026-05-11,Phones,Western,Bob,8,308809,158041,150768,May,20
+2026-05-11,Phones,Coast,Carol,2,75555,36036,39519,May,20
+2026-05-11,Accessories,Central,Bob,10,26661,13506,13155,May,20
+2026-05-11,Laptops,Central,Bob,12,957764,483051,474713,May,20
+2026-05-11,Laptops,Nairobi,David,6,352997,201200,151797,May,20
+2026-05-11,Audio,Nairobi,Frank,5,40010,22431,17579,May,20
+2026-05-12,Accessories,Nairobi,Bob,4,12000,6619,5381,May,20
+2026-05-12,Audio,Western,Alice,11,92837,50724,42113,May,20
+2026-05-12,Accessories,Nairobi,Eve,4,9811,5518,4293,May,20
+2026-05-12,Accessories,Coast,Carol,3,8272,4093,4179,May,20
+2026-05-12,Accessories,Nairobi,Eve,11,34084,19689,14395,May,20
+2026-05-12,Accessories,Nairobi,David,1,2927,1846,1081,May,20
+2026-05-12,Phones,Coast,Frank,12,419655,257873,161782,May,20
+2026-05-12,Phones,Central,Alice,12,464408,260085,204323,May,20
+2026-05-12,Laptops,Rift Valley,Alice,14,1125892,603759,522133,May,20
+2026-05-12,Laptops,Western,Carol,11,820641,411670,408971,May,20
+2026-05-12,Audio,Nairobi,Alice,13,93777,42374,51403,May,20
+2026-05-12,TVs,Rift Valley,Eve,4,218243,117048,101195,May,20
+2026-05-13,Phones,Coast,David,14,490365,232371,257994,May,20
+2026-05-13,Laptops,Central,David,12,757249,485166,272083,May,20
+2026-05-13,Laptops,Western,Eve,2,153630,96829,56801,May,20
+2026-05-13,Laptops,Rift Valley,Eve,4,309055,139982,169073,May,20
+2026-05-13,Phones,Western,Frank,14,529461,266985,262476,May,20
+2026-05-13,TVs,Western,Eve,1,67416,38953,28463,May,20
+2026-05-13,Accessories,Nairobi,David,8,21196,13533,7663,May,20
+2026-05-13,Accessories,Rift Valley,Carol,1,2304,1414,890,May,20
+2026-05-13,TVs,Rift Valley,Frank,6,264534,156296,108238,May,20
+2026-05-13,Phones,Nairobi,Bob,3,112177,61245,50932,May,20
+2026-05-14,TVs,Rift Valley,Alice,14,714979,418709,296270,May,20
+2026-05-14,Laptops,Nairobi,Bob,7,641678,373512,268166,May,20
+2026-05-14,Phones,Coast,Eve,1,36205,22223,13982,May,20
+2026-05-14,Phones,Coast,Eve,13,386881,242687,144194,May,20
+2026-05-14,TVs,Coast,Carol,3,121896,57952,63944,May,20
+2026-05-14,Accessories,Central,Eve,14,30616,14075,16541,May,20
+2026-05-14,Laptops,Nairobi,Eve,3,176504,97203,79301,May,20
+2026-05-14,Phones,Coast,Eve,8,250705,119086,131619,May,20
+2026-05-15,TVs,Nairobi,Carol,2,94895,53845,41050,May,20
+2026-05-15,Audio,Rift Valley,David,6,55317,27134,28183,May,20
+2026-05-15,TVs,Coast,Frank,13,759642,460967,298675,May,20
+2026-05-15,Audio,Coast,Bob,14,127809,69419,58390,May,20
+2026-05-15,Laptops,Central,Frank,4,283221,163790,119431,May,20
+2026-05-15,Phones,Coast,Eve,13,402439,221455,180984,May,20
+2026-05-15,Phones,Nairobi,Bob,7,265630,149587,116043,May,20
+2026-05-15,Accessories,Nairobi,Alice,9,23805,11251,12554,May,20
+2026-05-15,Audio,Central,Frank,5,45311,29336,15975,May,20
+2026-05-15,Phones,Western,Carol,10,309843,182161,127682,May,20
+2026-05-15,Phones,Coast,David,1,36406,21080,15326,May,20
+2026-05-15,TVs,Rift Valley,Eve,14,837156,429818,407338,May,20
+2026-05-15,TVs,Coast,David,8,406618,219856,186762,May,20
+2026-05-15,Phones,Coast,David,8,336889,189680,147209,May,20
+2026-05-16,Laptops,Central,Eve,8,594094,363829,230265,May,20
+2026-05-16,Phones,Rift Valley,Bob,7,227024,133558,93466,May,20
+2026-05-16,Phones,Rift Valley,Frank,5,150840,72107,78733,May,20
+2026-05-16,Laptops,Coast,Frank,14,1263081,699447,563634,May,20
+2026-05-16,Laptops,Nairobi,Alice,3,203202,110477,92725,May,20
+2026-05-16,Accessories,Rift Valley,David,12,36390,18366,18024,May,20
+2026-05-16,Phones,Coast,Eve,8,265980,158065,107915,May,20
+2026-05-16,Audio,Nairobi,Frank,11,84734,42215,42519,May,20
+2026-05-16,Laptops,Coast,Bob,3,225357,137131,88226,May,20
+2026-05-16,Accessories,Rift Valley,Alice,3,9501,6171,3330,May,20
+2026-05-17,Phones,Western,Carol,8,310719,146708,164011,May,20
+2026-05-17,Phones,Coast,Carol,12,450775,263389,187386,May,20
+2026-05-17,Phones,Coast,Carol,1,35876,16836,19040,May,20
+2026-05-17,Phones,Coast,Alice,1,31142,17911,13231,May,20
+2026-05-17,Phones,Nairobi,Eve,10,365748,211984,153764,May,20
+2026-05-17,Laptops,Nairobi,Alice,6,482597,256166,226431,May,20
+2026-05-17,Laptops,Nairobi,Carol,12,851945,477758,374187,May,20
+2026-05-17,TVs,Nairobi,Bob,2,87923,56164,31759,May,20
+2026-05-17,Accessories,Nairobi,David,9,17935,10644,7291,May,20
+2026-05-17,Laptops,Coast,Eve,14,1176157,680982,495175,May,20
+2026-05-17,TVs,Rift Valley,Alice,2,122216,66866,55350,May,20
+2026-05-17,Phones,Coast,Alice,6,156731,101764,54967,May,20
+2026-05-17,Phones,Rift Valley,Frank,12,440907,230116,210791,May,20
+2026-05-18,TVs,Rift Valley,Eve,11,672152,313711,358441,May,21
+2026-05-18,Laptops,Coast,David,13,999932,641629,358303,May,21
+2026-05-18,TVs,Nairobi,Bob,10,587021,352399,234622,May,21
+2026-05-18,TVs,Rift Valley,Bob,6,301153,164041,137112,May,21
+2026-05-18,Phones,Rift Valley,David,12,442797,262342,180455,May,21
+2026-05-18,Laptops,Nairobi,Bob,9,716104,378850,337254,May,21
+2026-05-18,TVs,Nairobi,Alice,12,644325,318408,325917,May,21
+2026-05-18,Laptops,Nairobi,Bob,14,1163438,577271,586167,May,21
+2026-05-18,Accessories,Nairobi,Eve,10,25510,13425,12085,May,21
+2026-05-19,Laptops,Nairobi,Eve,5,382579,224767,157812,May,21
+2026-05-19,Phones,Western,David,14,414172,230310,183862,May,21
+2026-05-19,Phones,Rift Valley,Alice,4,107702,50195,57507,May,21
+2026-05-19,Phones,Nairobi,Eve,7,235827,150356,85471,May,21
+2026-05-19,TVs,Coast,Eve,6,351252,172329,178923,May,21
+2026-05-19,Phones,Nairobi,Carol,6,226737,124354,102383,May,21
+2026-05-19,Phones,Coast,Carol,4,128098,68125,59973,May,21
+2026-05-19,Phones,Coast,Alice,13,427322,271377,155945,May,21
+2026-05-19,Phones,Coast,Frank,1,34915,18848,16067,May,21
+2026-05-19,Accessories,Nairobi,David,11,29735,18306,11429,May,21
+2026-05-19,Audio,Nairobi,Alice,2,14629,7658,6971,May,21
+2026-05-19,Accessories,Rift Valley,Eve,8,21703,11244,10459,May,21
+2026-05-19,Laptops,Central,Alice,10,808569,438713,369856,May,21
+2026-05-20,Laptops,Coast,Frank,11,749492,346702,402790,May,21
+2026-05-20,Laptops,Nairobi,Eve,4,345518,190100,155418,May,21
+2026-05-20,Audio,Rift Valley,Bob,9,68382,32740,35642,May,21
+2026-05-20,Accessories,Nairobi,David,2,4750,3030,1720,May,21
+2026-05-20,Audio,Rift Valley,Eve,14,113911,52206,61705,May,21
+2026-05-21,TVs,Rift Valley,Eve,6,354626,227846,126780,May,21
+2026-05-21,Accessories,Western,David,10,24318,14563,9755,May,21
+2026-05-21,Phones,Coast,Alice,13,474445,261449,212996,May,21
+2026-05-21,Laptops,Rift Valley,Frank,5,373817,232626,141191,May,21
+2026-05-21,Phones,Nairobi,Carol,1,40069,19270,20799,May,21
+2026-05-21,Phones,Coast,Frank,13,502860,259025,243835,May,21
+2026-05-21,Accessories,Rift Valley,Frank,9,18585,11715,6870,May,21
+2026-05-21,Laptops,Central,Frank,7,502053,250665,251388,May,21
+2026-05-21,TVs,Nairobi,Alice,1,56763,28908,27855,May,21
+2026-05-21,Laptops,Nairobi,David,2,148581,91265,57316,May,21
+2026-05-21,Laptops,Nairobi,Alice,6,386425,174910,211515,May,21
+2026-05-21,TVs,Central,David,6,336260,171154,165106,May,21
+2026-05-21,TVs,Central,Bob,7,324922,188290,136632,May,21
+2026-05-21,Laptops,Coast,Carol,8,626875,330012,296863,May,21
+2026-05-21,Laptops,Nairobi,Bob,2,153211,82989,70222,May,21
+2026-05-21,Audio,Central,Frank,5,35765,16328,19437,May,21
+2026-05-21,Audio,Central,Eve,2,14312,6450,7862,May,21
+2026-05-21,Laptops,Nairobi,Carol,10,494735,225887,268848,May,21
+2026-05-22,TVs,Rift Valley,Bob,3,166889,88054,78835,May,21
+2026-05-22,Laptops,Nairobi,Eve,8,619758,391991,227767,May,21
+2026-05-22,TVs,Nairobi,Bob,13,631054,406349,224705,May,21
+2026-05-22,Phones,Western,Carol,4,123992,57890,66102,May,21
+2026-05-22,Phones,Nairobi,Alice,3,122625,74775,47850,May,21
+2026-05-22,Audio,Coast,Alice,10,73706,47273,26433,May,21
+2026-05-22,Laptops,Coast,Carol,14,1108707,668289,440418,May,21
+2026-05-22,Audio,Western,Alice,6,49623,29555,20068,May,21
+2026-05-22,Phones,Coast,Carol,3,92238,41520,50718,May,21
+2026-05-22,Laptops,Western,Carol,4,309789,182067,127722,May,21
+2026-05-23,Audio,Coast,David,9,62825,36940,25885,May,21
+2026-05-23,Laptops,Central,Alice,8,638229,340068,298161,May,21
+2026-05-23,Audio,Western,Frank,3,21408,13505,7903,May,21
+2026-05-23,Phones,Nairobi,Alice,14,559888,259390,300498,May,21
+2026-05-23,TVs,Coast,Frank,7,432237,210386,221851,May,21
+2026-05-23,Accessories,Western,Alice,12,28628,14967,13661,May,21
+2026-05-23,Phones,Coast,Carol,8,317273,182094,135179,May,21
+2026-05-23,Phones,Central,Carol,12,376546,234830,141716,May,21
+2026-05-23,TVs,Rift Valley,David,5,334222,175717,158505,May,21
+2026-05-23,Phones,Central,Carol,1,38429,18573,19856,May,21
+2026-05-23,Laptops,Coast,David,3,217812,111502,106310,May,21
+2026-05-23,TVs,Rift Valley,Alice,13,666669,354388,312281,May,21
+2026-05-23,Laptops,Nairobi,Bob,13,970653,489107,481546,May,21
+2026-05-23,Phones,Coast,David,10,349859,182264,167595,May,21
+2026-05-23,Phones,Coast,Alice,2,75557,48899,26658,May,21
+2026-05-23,TVs,Rift Valley,Frank,9,481995,304087,177908,May,21
+2026-05-23,Laptops,Rift Valley,Carol,1,77891,38083,39808,May,21
+2026-05-23,Phones,Nairobi,Bob,3,105564,48320,57244,May,21
+2026-05-24,TVs,Coast,Eve,13,766938,415570,351368,May,21
+2026-05-24,Phones,Nairobi,Alice,10,436731,214983,221748,May,21
+2026-05-24,Accessories,Nairobi,David,13,31463,15832,15631,May,21
+2026-05-24,Phones,Nairobi,Bob,8,249611,161340,88271,May,21
+2026-05-24,Accessories,Western,Eve,4,7846,3621,4225,May,21
+2026-05-24,Audio,Coast,Carol,14,103765,48268,55497,May,21
+2026-05-25,Laptops,Coast,Frank,9,741354,348475,392879,May,22
+2026-05-25,TVs,Central,David,13,694292,320030,374262,May,22
+2026-05-25,Audio,Nairobi,David,2,14648,7056,7592,May,22
+2026-05-25,Phones,Coast,Carol,14,362475,217411,145064,May,22
+2026-05-25,Laptops,Nairobi,Carol,11,677622,339477,338145,May,22
+2026-05-25,TVs,Rift Valley,David,13,721970,402368,319602,May,22
+2026-05-25,Laptops,Western,Alice,6,462827,235144,227683,May,22
+2026-05-25,TVs,Western,Alice,6,398747,236090,162657,May,22
+2026-05-25,Laptops,Rift Valley,David,2,124054,67239,56815,May,22
+2026-05-26,TVs,Western,Bob,2,115766,70916,44850,May,22
+2026-05-26,Accessories,Nairobi,Bob,1,2682,1430,1252,May,22
+2026-05-26,Phones,Western,Eve,6,260605,127372,133233,May,22
+2026-05-26,Accessories,Rift Valley,Bob,13,35617,18232,17385,May,22
+2026-05-26,TVs,Coast,Bob,10,559614,340339,219275,May,22
+2026-05-26,Accessories,Nairobi,Bob,8,23756,10974,12782,May,22
+2026-05-26,Phones,Nairobi,Alice,4,168382,99836,68546,May,22
+2026-05-26,Laptops,Rift Valley,Bob,4,219135,107726,111409,May,22
+2026-05-26,Phones,Coast,Eve,6,164734,104485,60249,May,22
+2026-05-26,TVs,Nairobi,Frank,1,54695,28459,26236,May,22
+2026-05-27,Accessories,Central,Eve,9,21284,12082,9202,May,22
+2026-05-27,Phones,Nairobi,Eve,12,521075,268077,252998,May,22
+2026-05-27,TVs,Nairobi,Bob,9,467506,211755,255751,May,22
+2026-05-27,Phones,Coast,Eve,3,129338,66056,63282,May,22
+2026-05-27,Laptops,Rift Valley,Frank,9,619871,353638,266233,May,22
+2026-05-27,Laptops,Rift Valley,Alice,11,892861,551445,341416,May,22
+2026-05-27,Accessories,Rift Valley,Eve,13,32468,15483,16985,May,22
+2026-05-27,Accessories,Coast,Frank,7,14080,8251,5829,May,22
+2026-05-27,TVs,Western,David,14,639797,395770,244027,May,22
+2026-05-27,Audio,Nairobi,Alice,11,77151,34917,42234,May,22
+2026-05-27,Phones,Rift Valley,Carol,13,500794,268507,232287,May,22
+2026-05-27,Phones,Rift Valley,Frank,11,374827,180165,194662,May,22
+2026-05-28,Laptops,Nairobi,Carol,10,710243,424734,285509,May,22
+2026-05-28,Phones,Rift Valley,David,3,120438,65681,54757,May,22
+2026-05-28,Accessories,Coast,Bob,7,15256,9854,5402,May,22
+2026-05-28,TVs,Coast,Frank,4,263002,127128,135874,May,22
+2026-05-28,Accessories,Nairobi,Eve,9,25300,12322,12978,May,22
+2026-05-28,Audio,Rift Valley,Eve,6,57121,29426,27695,May,22
+2026-05-28,Audio,Coast,Frank,12,112592,62464,50128,May,22
+2026-05-28,Laptops,Central,Bob,5,427793,246348,181445,May,22
+2026-05-29,Phones,Nairobi,Carol,11,361275,232158,129117,May,22
+2026-05-29,Phones,Western,Frank,2,64496,41171,23325,May,22
+2026-05-29,Laptops,Central,Carol,12,956363,477369,478994,May,22
+2026-05-29,TVs,Nairobi,Carol,5,253319,138958,114361,May,22
+2026-05-29,TVs,Nairobi,Frank,4,251619,140118,111501,May,22
+2026-05-30,TVs,Coast,Bob,6,341447,210747,130700,May,22
+2026-05-30,Laptops,Coast,Eve,9,689234,337131,352103,May,22
+2026-05-30,Accessories,Nairobi,Carol,3,7101,3747,3354,May,22
+2026-05-30,Laptops,Nairobi,Bob,13,1051263,598333,452930,May,22
+2026-05-30,Phones,Rift Valley,Frank,14,544655,288597,256058,May,22
+2026-05-30,Accessories,Western,Eve,7,19468,10389,9079,May,22
+2026-05-30,TVs,Nairobi,Bob,5,247389,140341,107048,May,22
+2026-05-30,TVs,Coast,Eve,7,332394,193912,138482,May,22
+2026-05-30,Accessories,Coast,David,2,5396,2958,2438,May,22
+2026-05-30,Laptops,Western,Carol,7,516082,254788,261294,May,22
+2026-05-30,Phones,Nairobi,Alice,10,291823,141494,150329,May,22
+2026-05-30,Phones,Central,David,14,524156,306425,217731,May,22
+2026-05-30,Accessories,Rift Valley,Bob,5,12735,7687,5048,May,22
+2026-05-31,Laptops,Coast,Carol,5,377888,211928,165960,May,22
+2026-05-31,Laptops,Rift Valley,Bob,3,192513,92027,100486,May,22
+2026-05-31,Phones,Rift Valley,Carol,14,565788,366011,199777,May,22
+2026-05-31,Phones,Nairobi,Eve,11,337689,157908,179781,May,22
+2026-05-31,TVs,Nairobi,Bob,3,168169,86394,81775,May,22
+2026-05-31,Laptops,Rift Valley,David,14,1142157,524786,617371,May,22
+2026-06-01,Audio,Nairobi,Carol,2,17502,10291,7211,June,23
+2026-06-01,Phones,Nairobi,David,5,163242,79732,83510,June,23
+2026-06-01,Accessories,Nairobi,Eve,2,4914,2960,1954,June,23
+2026-06-01,Phones,Rift Valley,Eve,12,512567,318942,193625,June,23
+2026-06-01,TVs,Coast,David,3,177900,114838,63062,June,23
+2026-06-01,TVs,Coast,Eve,14,751595,366555,385040,June,23
+2026-06-02,TVs,Nairobi,Carol,4,214480,100725,113755,June,23
+2026-06-02,Laptops,Western,Eve,10,791298,461300,329998,June,23
+2026-06-02,Laptops,Western,Carol,12,854325,492498,361827,June,23
+2026-06-02,Phones,Nairobi,Frank,9,284220,151994,132226,June,23
+2026-06-02,TVs,Rift Valley,Bob,9,529320,298637,230683,June,23
+2026-06-02,Audio,Rift Valley,Frank,2,15019,7230,7789,June,23
+2026-06-02,Laptops,Western,David,13,829773,420914,408859,June,23
+2026-06-02,Accessories,Coast,Alice,8,24279,12511,11768,June,23
+2026-06-02,TVs,Nairobi,David,4,234630,127645,106985,June,23
+2026-06-02,Laptops,Coast,David,12,924756,425185,499571,June,23
+2026-06-02,Phones,Rift Valley,Bob,13,490528,317946,172582,June,23
+2026-06-02,Audio,Coast,Eve,7,53126,34378,18748,June,23
+2026-06-02,TVs,Coast,Eve,6,348304,189051,159253,June,23
+2026-06-03,Phones,Coast,Alice,14,448710,219488,229222,June,23
+2026-06-03,Phones,Coast,David,12,457363,249835,207528,June,23
+2026-06-03,Laptops,Rift Valley,Bob,4,304754,138110,166644,June,23
+2026-06-03,Phones,Coast,Frank,7,266692,157778,108914,June,23
+2026-06-03,Phones,Nairobi,Bob,14,552693,309038,243655,June,23
+2026-06-03,Laptops,Nairobi,Alice,7,619356,309381,309975,June,23
+2026-06-03,Phones,Central,David,7,245985,158742,87243,June,23
+2026-06-03,Phones,Coast,Eve,3,104217,61217,43000,June,23
+2026-06-03,Audio,Nairobi,Frank,10,90767,43448,47319,June,23
+2026-06-03,TVs,Coast,Alice,13,780285,448761,331524,June,23
+2026-06-03,TVs,Nairobi,Frank,6,323715,146897,176818,June,23
+2026-06-03,Accessories,Rift Valley,Carol,11,24052,13632,10420,June,23
+2026-06-04,TVs,Coast,David,8,434266,251202,183064,June,23
+2026-06-04,TVs,Nairobi,Carol,11,627581,393525,234056,June,23
+2026-06-04,TVs,Western,Bob,10,502324,244864,257460,June,23
+2026-06-04,Phones,Coast,Bob,11,390183,253528,136655,June,23
+2026-06-04,Accessories,Central,Frank,3,8416,5408,3008,June,23
+2026-06-04,TVs,Central,Carol,11,632396,397376,235020,June,23
+2026-06-04,TVs,Coast,Frank,13,715333,446409,268924,June,23
+2026-06-04,Accessories,Western,Eve,13,30964,20066,10898,June,23
+2026-06-05,Laptops,Nairobi,Frank,3,244748,123542,121206,June,23
+2026-06-05,Phones,Coast,Frank,8,331829,193573,138256,June,23
+2026-06-05,Laptops,Coast,Carol,14,770835,432325,338510,June,23
+2026-06-05,Accessories,Nairobi,Bob,5,14062,8827,5235,June,23
+2026-06-05,TVs,Nairobi,Frank,10,420704,221981,198723,June,23
+2026-06-05,Accessories,Nairobi,Bob,8,16904,8797,8107,June,23
+2026-06-05,Accessories,Nairobi,David,5,10903,6580,4323,June,23
+2026-06-05,Laptops,Rift Valley,David,10,694811,328947,365864,June,23
+2026-06-05,Audio,Nairobi,Eve,10,82742,47375,35367,June,23
+2026-06-05,Phones,Central,Alice,2,52321,33040,19281,June,23
+2026-06-06,Laptops,Coast,Bob,11,775163,448509,326654,June,23
+2026-06-06,Laptops,Nairobi,Carol,3,196182,100156,96026,June,23
+2026-06-06,Laptops,Rift Valley,Alice,8,468019,225035,242984,June,23
+2026-06-06,Laptops,Coast,Frank,14,1155184,621212,533972,June,23
+2026-06-06,TVs,Rift Valley,Bob,6,336391,157923,178468,June,23
+2026-06-06,Phones,Rift Valley,Alice,2,67244,42592,24652,June,23
+2026-06-06,TVs,Nairobi,David,14,642347,319817,322530,June,23
+2026-06-06,Laptops,Central,Eve,14,993324,460736,532588,June,23
+2026-06-06,Phones,Nairobi,Bob,6,181057,83792,97265,June,23
+2026-06-06,Laptops,Nairobi,Carol,3,235776,136651,99125,June,23
+2026-06-06,Audio,Nairobi,Carol,14,109200,51526,57674,June,23
+2026-06-06,Accessories,Coast,Carol,2,4523,2879,1644,June,23
+2026-06-06,TVs,Coast,Frank,7,437219,223734,213485,June,23
+2026-06-06,Accessories,Coast,Bob,1,2864,1463,1401,June,23
+2026-06-07,Phones,Nairobi,Eve,13,453363,261030,192333,June,23
+2026-06-07,Phones,Rift Valley,David,14,466895,302717,164178,June,23
+2026-06-07,TVs,Nairobi,Frank,12,732227,358623,373604,June,23
+2026-06-07,Accessories,Western,Bob,9,24005,13176,10829,June,23
+2026-06-07,Laptops,Nairobi,Alice,14,1280234,727466,552768,June,23
+2026-06-07,Accessories,Coast,David,2,5022,3240,1782,June,23
+2026-06-07,Laptops,Nairobi,Carol,7,494390,245613,248777,June,23
+2026-06-07,Laptops,Nairobi,Alice,6,498686,274407,224279,June,23
+2026-06-08,Laptops,Coast,Eve,12,723441,443800,279641,June,24
+2026-06-08,Phones,Nairobi,Alice,1,38182,20437,17745,June,24
+2026-06-08,Phones,Nairobi,Eve,13,425120,194200,230920,June,24
+2026-06-08,Laptops,Central,Eve,1,82243,52642,29601,June,24
+2026-06-08,Laptops,Nairobi,Frank,5,367794,222582,145212,June,24
+2026-06-08,Accessories,Rift Valley,Frank,2,3791,1734,2057,June,24
+2026-06-08,Phones,Nairobi,Eve,9,331118,175990,155128,June,24
+2026-06-08,Phones,Nairobi,Alice,1,29352,15087,14265,June,24
+2026-06-08,Phones,Nairobi,Carol,13,490269,284376,205893,June,24
+2026-06-09,Phones,Rift Valley,Eve,10,389565,206111,183454,June,24
+2026-06-09,Audio,Nairobi,Eve,5,38217,19836,18381,June,24
+2026-06-09,Laptops,Western,Frank,7,534117,343599,190518,June,24
+2026-06-09,Audio,Nairobi,David,8,78454,42841,35613,June,24
+2026-06-09,Laptops,Western,Alice,14,845856,423598,422258,June,24
+2026-06-09,Laptops,Rift Valley,Alice,4,293415,188782,104633,June,24
+2026-06-09,Phones,Nairobi,Carol,11,364409,180662,183747,June,24
+2026-06-09,TVs,Western,Carol,12,761070,466038,295032,June,24
+2026-06-09,Phones,Western,Eve,7,272139,126376,145763,June,24
+2026-06-09,Phones,Nairobi,Carol,10,324889,186430,138459,June,24
+2026-06-09,Laptops,Coast,Carol,14,1006831,468987,537844,June,24
+2026-06-09,Laptops,Nairobi,David,4,328973,153645,175328,June,24
+2026-06-09,Phones,Coast,David,10,399829,244465,155364,June,24
+2026-06-09,Laptops,Western,Eve,13,909751,462358,447393,June,24
+2026-06-10,Phones,Western,David,11,442810,232161,210649,June,24
+2026-06-10,Laptops,Coast,David,6,497080,312014,185066,June,24
+2026-06-10,Audio,Western,Carol,2,17236,10897,6339,June,24
+2026-06-10,TVs,Nairobi,Alice,2,119195,64131,55064,June,24
+2026-06-10,Phones,Rift Valley,Frank,7,237835,111921,125914,June,24
+2026-06-10,Phones,Nairobi,David,4,150704,75563,75141,June,24
+2026-06-10,TVs,Western,David,11,625184,303816,321368,June,24
+2026-06-10,TVs,Rift Valley,Eve,2,86233,48760,37473,June,24
+2026-06-10,Audio,Western,Frank,7,53478,25301,28177,June,24
+2026-06-10,Accessories,Nairobi,Bob,10,27729,14388,13341,June,24
+2026-06-10,Accessories,Central,Carol,13,27954,12927,15027,June,24
+2026-06-10,Audio,Western,Bob,13,96207,45419,50788,June,24
+2026-06-11,TVs,Central,Frank,2,101254,57411,43843,June,24
+2026-06-11,Audio,Rift Valley,Eve,14,105011,61374,43637,June,24
+2026-06-11,Phones,Rift Valley,Frank,2,62103,34733,27370,June,24
+2026-06-11,Phones,Coast,David,11,437495,218204,219291,June,24
+2026-06-11,Phones,Coast,Eve,4,125795,59457,66338,June,24
+2026-06-11,Phones,Nairobi,Eve,12,453288,229081,224207,June,24
+2026-06-11,TVs,Nairobi,Alice,6,293581,176416,117165,June,24
+2026-06-11,Phones,Nairobi,David,12,356996,218509,138487,June,24
+2026-06-11,Phones,Nairobi,Alice,2,82407,51953,30454,June,24
+2026-06-11,TVs,Coast,Alice,12,606546,373594,232952,June,24
+2026-06-11,Phones,Coast,Alice,10,368520,179295,189225,June,24
+2026-06-11,TVs,Nairobi,Alice,14,744236,475039,269197,June,24
+2026-06-12,Laptops,Western,Alice,1,90818,54215,36603,June,24
+2026-06-12,TVs,Nairobi,Carol,10,519612,321722,197890,June,24
+2026-06-12,TVs,Central,Frank,3,135875,86117,49758,June,24
+2026-06-12,Phones,Nairobi,Alice,13,439847,247258,192589,June,24
+2026-06-12,TVs,Nairobi,Alice,4,201038,111299,89739,June,24
+2026-06-12,Accessories,Central,Carol,6,18142,9627,8515,June,24
+2026-06-12,TVs,Rift Valley,Carol,6,344943,163865,181078,June,24
+2026-06-13,Phones,Nairobi,Eve,10,332277,182763,149514,June,24
+2026-06-13,Phones,Western,Frank,4,150445,96551,53894,June,24
+2026-06-13,Phones,Coast,Frank,12,341001,215067,125934,June,24
+2026-06-13,Audio,Nairobi,David,2,16982,7803,9179,June,24
+2026-06-13,TVs,Coast,Bob,10,581061,358606,222455,June,24
+2026-06-13,Phones,Nairobi,Bob,13,586342,360851,225491,June,24
+2026-06-13,Laptops,Nairobi,David,2,164873,82876,81997,June,24
+2026-06-13,Accessories,Rift Valley,Alice,6,19331,11561,7770,June,24
+2026-06-14,TVs,Rift Valley,Bob,1,58278,36651,21627,June,24
+2026-06-14,Phones,Nairobi,Eve,7,294216,165215,129001,June,24
+2026-06-14,Laptops,Rift Valley,Bob,13,1279080,747592,531488,June,24
+2026-06-14,Phones,Rift Valley,Frank,11,384909,206955,177954,June,24
+2026-06-14,Accessories,Nairobi,Bob,5,11416,5823,5593,June,24
+2026-06-14,Accessories,Coast,Frank,2,5798,2925,2873,June,24
+2026-06-14,Laptops,Nairobi,Alice,14,966878,593208,373670,June,24
+2026-06-14,Laptops,Western,Alice,8,565288,266275,299013,June,24
+2026-06-14,Phones,Rift Valley,Eve,3,89921,41171,48750,June,24
+2026-06-15,Phones,Nairobi,Eve,8,347363,197616,149747,June,25
+2026-06-15,Phones,Rift Valley,Bob,14,430566,231077,199489,June,25
+2026-06-15,TVs,Rift Valley,David,14,701909,381269,320640,June,25
+2026-06-15,Laptops,Coast,Eve,7,625381,400536,224845,June,25
+2026-06-15,Laptops,Rift Valley,David,9,521384,331384,190000,June,25
+2026-06-15,Accessories,Rift Valley,David,4,8551,5490,3061,June,25
+2026-06-15,Accessories,Nairobi,Carol,9,25561,16198,9363,June,25
+2026-06-15,Phones,Coast,Bob,14,540750,334144,206606,June,25
+2026-06-16,Accessories,Rift Valley,Bob,12,29439,16911,12528,June,25
+2026-06-16,TVs,Rift Valley,Carol,5,239318,125906,113412,June,25
+2026-06-16,Audio,Coast,David,8,70260,39612,30648,June,25
+2026-06-16,Phones,Nairobi,David,5,157392,97348,60044,June,25
+2026-06-16,Audio,Nairobi,Alice,6,49949,32317,17632,June,25
+2026-06-16,Accessories,Coast,Carol,3,5940,3175,2765,June,25
+2026-06-16,Audio,Nairobi,Carol,13,118315,58399,59916,June,25
+2026-06-16,TVs,Nairobi,Bob,10,588054,307900,280154,June,25
+2026-06-16,Laptops,Rift Valley,Carol,9,612856,298120,314736,June,25
+2026-06-16,Phones,Western,Carol,14,609405,382092,227313,June,25
+2026-06-16,Phones,Nairobi,Alice,12,357731,209659,148072,June,25
+2026-06-16,Laptops,Nairobi,David,12,952551,438401,514150,June,25
+2026-06-16,Phones,Rift Valley,Frank,13,478780,250473,228307,June,25
+2026-06-16,Laptops,Rift Valley,Frank,2,160583,81702,78881,June,25
+2026-06-17,Phones,Nairobi,Bob,7,211279,121160,90119,June,25
+2026-06-17,Laptops,Rift Valley,Bob,4,272046,142972,129074,June,25
+2026-06-17,Phones,Nairobi,Bob,12,408055,252246,155809,June,25
+2026-06-17,Phones,Nairobi,David,4,132421,60202,72219,June,25
+2026-06-17,Accessories,Western,Eve,8,21540,13708,7832,June,25
+2026-06-17,TVs,Nairobi,Alice,8,477486,281108,196378,June,25
+2026-06-17,Laptops,Western,Carol,7,450699,226399,224300,June,25
+2026-06-17,Laptops,Coast,Carol,1,78517,42668,35849,June,25
+2026-06-17,Phones,Nairobi,Frank,12,364515,214623,149892,June,25
+2026-06-17,Audio,Nairobi,Bob,13,117345,69280,48065,June,25
+2026-06-17,Accessories,Coast,Alice,1,2207,1430,777,June,25
+2026-06-17,Laptops,Coast,Frank,11,951025,530988,420037,June,25
+2026-06-17,Laptops,Central,Eve,6,501474,244258,257216,June,25
+2026-06-18,Phones,Nairobi,David,13,477060,245986,231074,June,25
+2026-06-18,Phones,Coast,Eve,9,381657,235744,145913,June,25
+2026-06-18,Laptops,Western,Carol,2,125847,68956,56891,June,25
+2026-06-18,Laptops,Western,Eve,2,146959,88371,58588,June,25
+2026-06-18,TVs,Rift Valley,Frank,8,419210,229272,189938,June,25
+2026-06-18,Laptops,Nairobi,Frank,3,243497,119903,123594,June,25
+2026-06-18,TVs,Central,Frank,4,204491,131923,72568,June,25
+2026-06-18,Laptops,Western,Alice,2,159762,93141,66621,June,25
+2026-06-18,Phones,Nairobi,David,14,477237,302473,174764,June,25
+2026-06-18,Phones,Coast,Eve,1,33783,21609,12174,June,25
+2026-06-19,Laptops,Nairobi,Alice,10,727553,456889,270664,June,25
+2026-06-19,TVs,Nairobi,Frank,9,594849,277442,317407,June,25
+2026-06-19,TVs,Nairobi,David,7,411091,235591,175500,June,25
+2026-06-19,TVs,Coast,Bob,2,101616,49456,52160,June,25
+2026-06-19,Accessories,Nairobi,Carol,12,29334,14402,14932,June,25
+2026-06-19,Phones,Rift Valley,Eve,6,253146,162160,90986,June,25
+2026-06-19,Phones,Coast,Bob,13,562288,314458,247830,June,25
+2026-06-19,Phones,Nairobi,Alice,9,260218,165097,95121,June,25
+2026-06-19,Accessories,Nairobi,Eve,11,27437,12916,14521,June,25
+2026-06-19,Laptops,Nairobi,Carol,5,294886,179089,115797,June,25
+2026-06-19,Laptops,Coast,Carol,13,1050052,575362,474690,June,25
+2026-06-19,Audio,Nairobi,David,6,52120,24699,27421,June,25
+2026-06-19,Phones,Western,David,3,122952,73006,49946,June,25
+2026-06-19,TVs,Nairobi,Frank,9,459560,294450,165110,June,25
+2026-06-20,Audio,Coast,Carol,2,15702,9665,6037,June,25
+2026-06-20,TVs,Nairobi,Bob,4,250567,149585,100982,June,25
+2026-06-20,Accessories,Nairobi,Frank,12,27255,14765,12490,June,25
+2026-06-20,TVs,Rift Valley,Frank,6,362723,216268,146455,June,25
+2026-06-20,TVs,Western,Bob,1,49875,29804,20071,June,25
+2026-06-20,Laptops,Rift Valley,Eve,13,870361,488543,381818,June,25
+2026-06-20,Laptops,Coast,David,1,95827,46399,49428,June,25
+2026-06-21,Phones,Coast,Carol,7,211351,127694,83657,June,25
+2026-06-21,Laptops,Coast,Bob,10,746383,463295,283088,June,25
+2026-06-21,Laptops,Nairobi,Eve,4,324341,183920,140421,June,25
+2026-06-21,Phones,Rift Valley,Carol,2,69088,39101,29987,June,25
+2026-06-21,Audio,Rift Valley,Carol,1,7252,4072,3180,June,25
+2026-06-21,Laptops,Coast,Bob,1,60884,36331,24553,June,25
+2026-06-21,Accessories,Western,Frank,5,14238,7261,6977,June,25
+2026-06-21,Accessories,Central,Frank,4,8469,4306,4163,June,25
+2026-06-21,Phones,Nairobi,Carol,4,172439,105217,67222,June,25
+2026-06-21,Laptops,Rift Valley,David,5,418567,229143,189424,June,25
+2026-06-21,Laptops,Nairobi,Eve,6,396102,180359,215743,June,25
+2026-06-22,Phones,Rift Valley,Frank,13,553950,328444,225506,June,26
+2026-06-22,Phones,Nairobi,David,5,173338,83846,89492,June,26
+2026-06-22,Accessories,Nairobi,Eve,10,27632,17566,10066,June,26
+2026-06-22,Laptops,Central,Alice,9,553990,302207,251783,June,26
+2026-06-22,Phones,Nairobi,Bob,10,413312,257595,155717,June,26
+2026-06-22,Accessories,Nairobi,Frank,11,26621,13190,13431,June,26
+2026-06-22,Accessories,Western,Alice,2,4355,2525,1830,June,26
+2026-06-22,Phones,Coast,Eve,6,225313,116981,108332,June,26
+2026-06-23,Phones,Nairobi,Carol,6,233104,107367,125737,June,26
+2026-06-23,Audio,Coast,Eve,2,16207,9727,6480,June,26
+2026-06-23,Phones,Coast,Frank,14,466377,252209,214168,June,26
+2026-06-23,Accessories,Coast,Frank,12,33303,19545,13758,June,26
+2026-06-23,Phones,Nairobi,Frank,8,280623,136790,143833,June,26
+2026-06-23,Phones,Central,Frank,1,27858,14685,13173,June,26
+2026-06-23,Laptops,Nairobi,Bob,5,382798,233962,148836,June,26
+2026-06-23,Accessories,Rift Valley,Bob,14,36866,22109,14757,June,26
+2026-06-23,Accessories,Coast,Bob,14,30513,14837,15676,June,26
+2026-06-23,Accessories,Nairobi,Eve,5,11521,6061,5460,June,26
+2026-06-23,Phones,Coast,Alice,12,409098,223572,185526,June,26
+2026-06-23,Laptops,Nairobi,Alice,10,807684,446996,360688,June,26
+2026-06-24,Phones,Nairobi,Bob,3,97901,45716,52185,June,26
+2026-06-24,TVs,Western,Bob,11,621000,279749,341251,June,26
+2026-06-24,Accessories,Western,David,10,25634,14520,11114,June,26
+2026-06-24,Audio,Western,Alice,2,16449,7971,8478,June,26
+2026-06-24,Phones,Nairobi,Frank,6,212981,96588,116393,June,26
+2026-06-24,Laptops,Western,David,10,887409,473681,413728,June,26
+2026-06-24,Accessories,Nairobi,Bob,1,2434,1153,1281,June,26
+2026-06-24,Phones,Nairobi,Eve,2,75252,40946,34306,June,26
+2026-06-24,Phones,Nairobi,Frank,2,51487,23385,28102,June,26
+2026-06-24,Phones,Nairobi,Carol,3,92773,60063,32710,June,26
+2026-06-24,Audio,Western,Alice,1,7006,3690,3316,June,26
+2026-06-24,Accessories,Nairobi,David,14,41293,19862,21431,June,26
+2026-06-25,Laptops,Coast,Bob,14,1069317,538787,530530,June,26
+2026-06-25,Accessories,Nairobi,Eve,2,5217,3248,1969,June,26
+2026-06-25,Phones,Central,Bob,3,129021,77062,51959,June,26
+2026-06-25,Phones,Rift Valley,David,11,435635,264766,170869,June,26
+2026-06-26,Accessories,Central,Bob,7,18912,10951,7961,June,26
+2026-06-26,Laptops,Western,Carol,6,384311,236516,147795,June,26
+2026-06-26,TVs,Central,Carol,10,540105,328302,211803,June,26
+2026-06-26,Phones,Nairobi,Bob,8,268036,152840,115196,June,26
+2026-06-26,Accessories,Nairobi,Frank,5,13119,6681,6438,June,26
+2026-06-26,Laptops,Rift Valley,Bob,6,570411,259189,311222,June,26
+2026-06-27,TVs,Coast,Frank,13,774993,367133,407860,June,26
+2026-06-27,Laptops,Western,Bob,4,280512,171904,108608,June,26
+2026-06-27,Laptops,Coast,Eve,12,1035054,602298,432756,June,26
+2026-06-27,Phones,Coast,Frank,4,173797,95025,78772,June,26
+2026-06-27,TVs,Western,Carol,12,570222,259818,310404,June,26
+2026-06-27,Accessories,Central,Alice,8,21545,9842,11703,June,26
+2026-06-27,Phones,Nairobi,Eve,14,364336,173644,190692,June,26
+2026-06-27,TVs,Rift Valley,David,9,553654,293394,260260,June,26
+2026-06-27,TVs,Rift Valley,Bob,14,788883,452946,335937,June,26
+2026-06-27,Phones,Nairobi,Alice,11,389096,248047,141049,June,26
+2026-06-27,Accessories,Rift Valley,Frank,11,32127,15143,16984,June,26
+2026-06-27,Accessories,Nairobi,Alice,11,27186,15283,11903,June,26
+2026-06-28,Laptops,Coast,Bob,6,542690,246344,296346,June,26
+2026-06-28,Phones,Nairobi,Carol,9,368253,170755,197498,June,26
+2026-06-28,Laptops,Rift Valley,Frank,13,907267,497605,409662,June,26
+2026-06-28,Laptops,Western,Alice,4,270213,132088,138125,June,26
+2026-06-28,Laptops,Western,Bob,13,990482,642434,348048,June,26
+2026-06-28,Phones,Central,Eve,9,290074,158394,131680,June,26
+2026-06-28,TVs,Nairobi,Alice,8,416131,255234,160897,June,26
+2026-06-28,Phones,Rift Valley,Eve,6,213869,126530,87339,June,26
+2026-06-28,Phones,Coast,Frank,7,264491,141448,123043,June,26
+2026-06-28,Laptops,Nairobi,Frank,12,850419,534799,315620,June,26
+2026-06-28,Accessories,Rift Valley,Frank,1,2483,1586,897,June,26
+2026-06-29,Laptops,Western,Carol,1,65227,38150,27077,June,27
+2026-06-29,Laptops,Coast,Frank,2,125502,59717,65785,June,27
+2026-06-29,Accessories,Rift Valley,Frank,11,25384,15529,9855,June,27
+2026-06-29,Laptops,Nairobi,Frank,3,198602,125228,73374,June,27
+2026-06-29,Accessories,Coast,Carol,11,25430,14905,10525,June,27
+2026-06-29,TVs,Coast,David,4,225148,117603,107545,June,27
+2026-06-29,Phones,Nairobi,Frank,4,99041,45064,53977,June,27
+2026-06-29,Laptops,Nairobi,Eve,1,72649,45479,27170,June,27
+2026-06-29,Phones,Nairobi,Alice,11,360277,218216,142061,June,27
+2026-06-29,Accessories,Rift Valley,David,2,5585,3234,2351,June,27
+2026-06-29,Accessories,Western,Carol,3,7452,4208,3244,June,27
+2026-06-29,Accessories,Western,Eve,3,6561,3929,2632,June,27
+2026-06-29,Accessories,Nairobi,Frank,6,12931,7860,5071,June,27
+2026-06-29,Phones,Western,Bob,7,254186,150937,103249,June,27
+2026-06-29,Accessories,Nairobi,Carol,11,25793,12098,13695,June,27
+2026-06-29,TVs,Nairobi,Bob,9,483254,299690,183564,June,27
+2026-06-30,Phones,Coast,David,10,335741,177974,157767,June,27
+2026-06-30,Laptops,Nairobi,David,6,409390,196661,212729,June,27
+2026-06-30,Phones,Nairobi,Carol,4,132595,70955,61640,June,27
+2026-06-30,Laptops,Central,Frank,6,446856,286074,160782,June,27
+2026-06-30,TVs,Nairobi,Alice,10,584906,292773,292133,June,27
+2026-06-30,Phones,Rift Valley,Bob,11,435691,266294,169397,June,27
+2026-06-30,TVs,Nairobi,Frank,14,702550,414549,288001,June,27
+2026-06-30,Audio,Nairobi,Carol,10,71484,42884,28600,June,27

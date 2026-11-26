@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+make_figures.py
+make_notebooks.py
+make_dashboard_placeholders.py
